@@ -79,7 +79,7 @@ AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=-1
-DoLibraryUpdate=1
+DoLibraryUpdate=0
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
@@ -96,7 +96,7 @@ AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=-1
-DoLibraryUpdate=1
+DoLibraryUpdate=0
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
@@ -113,7 +113,7 @@ AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=-1
-DoLibraryUpdate=1
+DoLibraryUpdate=0
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
@@ -130,7 +130,7 @@ AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=-1
-DoLibraryUpdate=1
+DoLibraryUpdate=0
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
@@ -1159,6 +1159,252 @@ NetClassSeparateForBusSections=0
 SelectedOnly=0
 UpdateVariants=1
 PartTypes=0
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0=Privod_A_K.IntLib
+ComponentDesignItemID0=C_0805
+ComponentSymbolReference0=C_0805
+ComponentUpdate0=0
+ComponentIsDeviceSheet0=0
+ComponentLibIdentifierKind1=Library Name And Type
+ComponentLibraryIdentifier1=Privod_A_K.IntLib
+ComponentDesignItemID1=C_1206
+ComponentSymbolReference1=C_1206
+ComponentUpdate1=0
+ComponentIsDeviceSheet1=0
+ComponentLibIdentifierKind2=Library Name And Type
+ComponentLibraryIdentifier2=Privod_A_K.IntLib
+ComponentDesignItemID2=C+_K50-35_(8x11.5)
+ComponentSymbolReference2=C+_K50-35_(8x11.5)
+ComponentUpdate2=1
+ComponentIsDeviceSheet2=0
+ComponentLibIdentifierKind3=Library Name And Type
+ComponentLibraryIdentifier3=Privod_A_K.IntLib
+ComponentDesignItemID3=C+_TAN_A
+ComponentSymbolReference3=C+_TAN_A
+ComponentUpdate3=1
+ComponentIsDeviceSheet3=0
+ComponentLibIdentifierKind4=Library Name And Type
+ComponentLibraryIdentifier4=Privod_A_K.IntLib
+ComponentDesignItemID4=C+_TAN_B
+ComponentSymbolReference4=C+_TAN_B
+ComponentUpdate4=1
+ComponentIsDeviceSheet4=0
+ComponentLibIdentifierKind5=Library Name And Type
+ComponentLibraryIdentifier5=Privod_A_K.IntLib
+ComponentDesignItemID5=DA_AMS1117-3.3
+ComponentSymbolReference5=DA_AMS1117-3.3
+ComponentUpdate5=1
+ComponentIsDeviceSheet5=0
+ComponentLibIdentifierKind6=Library Name And Type
+ComponentLibraryIdentifier6=Privod_A_K.IntLib
+ComponentDesignItemID6=DA_HCM12X
+ComponentSymbolReference6=DA_HCM12X
+ComponentUpdate6=0
+ComponentIsDeviceSheet6=0
+ComponentLibIdentifierKind7=Library Name And Type
+ComponentLibraryIdentifier7=Privod_A_K.IntLib
+ComponentDesignItemID7=DA_ISO1050DW
+ComponentSymbolReference7=DA_ISO1050DW
+ComponentUpdate7=1
+ComponentIsDeviceSheet7=0
+ComponentLibIdentifierKind8=Library Name And Type
+ComponentLibraryIdentifier8=Privod_A_K.IntLib
+ComponentDesignItemID8=DD_74HC1G14GV
+ComponentSymbolReference8=DD_74HC1G14GV
+ComponentUpdate8=1
+ComponentIsDeviceSheet8=0
+ComponentLibIdentifierKind9=Library Name And Type
+ComponentLibraryIdentifier9=Privod_A_K.IntLib
+ComponentDesignItemID9=DD_SCM3721ASA
+ComponentSymbolReference9=DD_SCM3721ASA
+ComponentUpdate9=1
+ComponentIsDeviceSheet9=0
+ComponentLibIdentifierKind10=Library Name And Type
+ComponentLibraryIdentifier10=Privod_A_K.IntLib
+ComponentDesignItemID10=DD_ST3485EBDR
+ComponentSymbolReference10=DD_ST3485EBDR
+ComponentUpdate10=1
+ComponentIsDeviceSheet10=0
+ComponentLibIdentifierKind11=Library Name And Type
+ComponentLibraryIdentifier11=Privod_A_K.IntLib
+ComponentDesignItemID11=DD_STM32F407VGT6
+ComponentSymbolReference11=DD_STM32F407VGT6
+ComponentUpdate11=0
+ComponentIsDeviceSheet11=0
+ComponentLibIdentifierKind12=Library Name And Type
+ComponentLibraryIdentifier12=Privod_A_K.IntLib
+ComponentDesignItemID12=DD_W5500
+ComponentSymbolReference12=DD_W5500
+ComponentUpdate12=1
+ComponentIsDeviceSheet12=0
+ComponentLibIdentifierKind13=Library Name And Type
+ComponentLibraryIdentifier13=Privod_A_K.IntLib
+ComponentDesignItemID13=G_AM1S-Z
+ComponentSymbolReference13=G_AM1S-Z
+ComponentUpdate13=1
+ComponentIsDeviceSheet13=0
+ComponentLibIdentifierKind14=Library Name And Type
+ComponentLibraryIdentifier14=Privod_A_K.IntLib
+ComponentDesignItemID14=G_WRB2405S-1WR2
+ComponentSymbolReference14=G_WRB2405S-1WR2
+ComponentUpdate14=1
+ComponentIsDeviceSheet14=0
+ComponentLibIdentifierKind15=Library Name And Type
+ComponentLibraryIdentifier15=Privod_A_K.IntLib
+ComponentDesignItemID15=L_B82790
+ComponentSymbolReference15=L_B82790
+ComponentUpdate15=1
+ComponentIsDeviceSheet15=0
+ComponentLibIdentifierKind16=Library Name And Type
+ComponentLibraryIdentifier16=Privod_A_K.IntLib
+ComponentDesignItemID16=L_PBY201209T-601Y-N
+ComponentSymbolReference16=L_PBY201209T-601Y-N
+ComponentUpdate16=0
+ComponentIsDeviceSheet16=0
+ComponentLibIdentifierKind17=Library Name And Type
+ComponentLibraryIdentifier17=Privod_A_K.IntLib
+ComponentDesignItemID17=L_SRN3015
+ComponentSymbolReference17=L_SRN3015
+ComponentUpdate17=1
+ComponentIsDeviceSheet17=0
+ComponentLibIdentifierKind18=Library Name And Type
+ComponentLibraryIdentifier18=Privod_A_K.IntLib
+ComponentDesignItemID18=R_0805
+ComponentSymbolReference18=R_0805
+ComponentUpdate18=0
+ComponentIsDeviceSheet18=0
+ComponentLibIdentifierKind19=Library Name And Type
+ComponentLibraryIdentifier19=Privod_A_K.IntLib
+ComponentDesignItemID19=R_1206
+ComponentSymbolReference19=R_1206
+ComponentUpdate19=1
+ComponentIsDeviceSheet19=0
+ComponentLibIdentifierKind20=Library Name And Type
+ComponentLibraryIdentifier20=Privod_A_K.IntLib
+ComponentDesignItemID20=R_1210
+ComponentSymbolReference20=R_1210
+ComponentUpdate20=1
+ComponentIsDeviceSheet20=0
+ComponentLibIdentifierKind21=Library Name And Type
+ComponentLibraryIdentifier21=Privod_A_K.IntLib
+ComponentDesignItemID21=R_2512
+ComponentSymbolReference21=R_2512
+ComponentUpdate21=1
+ComponentIsDeviceSheet21=0
+ComponentLibIdentifierKind22=Library Name And Type
+ComponentLibraryIdentifier22=Privod_A_K.IntLib
+ComponentDesignItemID22=R_YC164-JR-07
+ComponentSymbolReference22=R_YC164-JR-07
+ComponentUpdate22=1
+ComponentIsDeviceSheet22=0
+ComponentLibIdentifierKind23=Library Name And Type
+ComponentLibraryIdentifier23=Privod_A_K.IntLib
+ComponentDesignItemID23=SB_6x6_SMD
+ComponentSymbolReference23=SB_6x6_SMD
+ComponentUpdate23=0
+ComponentIsDeviceSheet23=0
+ComponentLibIdentifierKind24=Library Name And Type
+ComponentLibraryIdentifier24=Privod_A_K.IntLib
+ComponentDesignItemID24=VD_ESD
+ComponentSymbolReference24=VD_ESD
+ComponentUpdate24=0
+ComponentIsDeviceSheet24=0
+ComponentLibIdentifierKind25=Library Name And Type
+ComponentLibraryIdentifier25=Privod_A_K.IntLib
+ComponentDesignItemID25=VD_ESDA25W
+ComponentSymbolReference25=VD_ESDA25W
+ComponentUpdate25=1
+ComponentIsDeviceSheet25=0
+ComponentLibIdentifierKind26=Library Name And Type
+ComponentLibraryIdentifier26=Privod_A_K.IntLib
+ComponentDesignItemID26=VD_Led_0805
+ComponentSymbolReference26=VD_Led_0805
+ComponentUpdate26=0
+ComponentIsDeviceSheet26=0
+ComponentLibIdentifierKind27=Library Name And Type
+ComponentLibraryIdentifier27=Privod_A_K.IntLib
+ComponentDesignItemID27=VD_Ledx2_dip
+ComponentSymbolReference27=VD_Ledx2_dip
+ComponentUpdate27=1
+ComponentIsDeviceSheet27=0
+ComponentLibIdentifierKind28=Library Name And Type
+ComponentLibraryIdentifier28=Privod_A_K.IntLib
+ComponentDesignItemID28=VD_NUP2105L
+ComponentSymbolReference28=VD_NUP2105L
+ComponentUpdate28=1
+ComponentIsDeviceSheet28=0
+ComponentLibIdentifierKind29=Library Name And Type
+ComponentLibraryIdentifier29=Privod_A_K.IntLib
+ComponentDesignItemID29=VD_SH_SMA
+ComponentSymbolReference29=VD_SH_SMA
+ComponentUpdate29=0
+ComponentIsDeviceSheet29=0
+ComponentLibIdentifierKind30=Library Name And Type
+ComponentLibraryIdentifier30=Privod_A_K.IntLib
+ComponentDesignItemID30=VD_SMA
+ComponentSymbolReference30=VD_SMA
+ComponentUpdate30=1
+ComponentIsDeviceSheet30=0
+ComponentLibIdentifierKind31=Library Name And Type
+ComponentLibraryIdentifier31=Privod_A_K.IntLib
+ComponentDesignItemID31=VD_SMBJ50A
+ComponentSymbolReference31=VD_SMBJ50A
+ComponentUpdate31=1
+ComponentIsDeviceSheet31=0
+ComponentLibIdentifierKind32=Library Name And Type
+ComponentLibraryIdentifier32=Privod_A_K.IntLib
+ComponentDesignItemID32=VD_SMCJ48A
+ComponentSymbolReference32=VD_SMCJ48A
+ComponentUpdate32=1
+ComponentIsDeviceSheet32=0
+ComponentLibIdentifierKind33=Library Name And Type
+ComponentLibraryIdentifier33=Privod_A_K.IntLib
+ComponentDesignItemID33=VD_STPS3150U
+ComponentSymbolReference33=VD_STPS3150U
+ComponentUpdate33=1
+ComponentIsDeviceSheet33=0
+ComponentLibIdentifierKind34=Library Name And Type
+ComponentLibraryIdentifier34=Privod_A_K.IntLib
+ComponentDesignItemID34=VT_BC847B
+ComponentSymbolReference34=VT_BC847B
+ComponentUpdate34=0
+ComponentIsDeviceSheet34=0
+ComponentLibIdentifierKind35=Library Name And Type
+ComponentLibraryIdentifier35=Privod_A_K.IntLib
+ComponentDesignItemID35=XP_5x2_V
+ComponentSymbolReference35=XP_5x2_V
+ComponentUpdate35=0
+ComponentIsDeviceSheet35=0
+ComponentLibIdentifierKind36=Library Name And Type
+ComponentLibraryIdentifier36=Privod_A_K.IntLib
+ComponentDesignItemID36=XS_3_pin_3.8mm
+ComponentSymbolReference36=XS_3_pin_3.8mm
+ComponentUpdate36=1
+ComponentIsDeviceSheet36=0
+ComponentLibIdentifierKind37=Library Name And Type
+ComponentLibraryIdentifier37=Privod_A_K.IntLib
+ComponentDesignItemID37=XS_7x2_pin
+ComponentSymbolReference37=XS_7x2_pin
+ComponentUpdate37=0
+ComponentIsDeviceSheet37=0
+ComponentLibIdentifierKind38=Library Name And Type
+ComponentLibraryIdentifier38=Privod_A_K.IntLib
+ComponentDesignItemID38=XS_HR911105A
+ComponentSymbolReference38=XS_HR911105A
+ComponentUpdate38=1
+ComponentIsDeviceSheet38=0
+ComponentLibIdentifierKind39=Library Name And Type
+ComponentLibraryIdentifier39=Privod_A_K.IntLib
+ComponentDesignItemID39=XS_microSD-DM3AT
+ComponentSymbolReference39=XS_microSD-DM3AT
+ComponentUpdate39=0
+ComponentIsDeviceSheet39=0
+ComponentLibIdentifierKind40=Library Name And Type
+ComponentLibraryIdentifier40=Privod_A_K.IntLib
+ComponentDesignItemID40=Xtal
+ComponentSymbolReference40=Xtal
+ComponentUpdate40=1
+ComponentIsDeviceSheet40=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1172,6 +1418,155 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
+ParameterName0=Comment
+ParameterUpdate0=1
+ParameterName1=Component Kind
+ParameterUpdate1=1
+ParameterName2=Description
+ParameterUpdate2=1
+ParameterName3=Library Reference
+ParameterUpdate3=1
+ParameterName4=Parameter 1
+ParameterUpdate4=1
+ParameterName5=Аналог
+ParameterUpdate5=1
+ParameterName6=Идентификатор
+ParameterUpdate6=1
+ParameterName7=Корпус
+ParameterUpdate7=1
+ParameterName8=Наименование
+ParameterUpdate8=1
+ParameterName9=Напряжение
+ParameterUpdate9=1
+ParameterName10=Номинал
+ParameterUpdate10=1
+ParameterName11=Поставщик
+ParameterUpdate11=1
+ParameterName12=Примечание 
+ParameterUpdate12=1
+ParameterName13=Примечания
+ParameterUpdate13=1
+ParameterName14=Тип
+ParameterUpdate14=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=AM1S-Z
+ModelUpdate0=1
+ModelType1=PCBLIB
+ModelName1=B82790
+ModelUpdate1=1
+ModelType2=PCBLIB
+ModelName2=CAP_0805_(2x1.25x1.3)
+ModelUpdate2=1
+ModelType3=PCBLIB
+ModelName3=CAP_1206_(3.2x1.6x1.5)
+ModelUpdate3=1
+ModelType4=PCBLIB
+ModelName4=CAP_EL_K50-35_(8x11.5)
+ModelUpdate4=1
+ModelType5=PCBLIB
+ModelName5=CAP_TAN_A
+ModelUpdate5=1
+ModelType6=PCBLIB
+ModelName6=CAP_TAN_B
+ModelUpdate6=1
+ModelType7=PCBLIB
+ModelName7=DA_Buzzer0905
+ModelUpdate7=1
+ModelType8=PCBLIB
+ModelName8=L_0805
+ModelUpdate8=1
+ModelType9=PCBLIB
+ModelName9=L_SRN3015
+ModelUpdate9=1
+ModelType10=PCBLIB
+ModelName10=led_0805
+ModelUpdate10=1
+ModelType11=PCBLIB
+ModelName11=LQFP_100
+ModelUpdate11=1
+ModelType12=PCBLIB
+ModelName12=LQFP_48
+ModelUpdate12=1
+ModelType13=PCBLIB
+ModelName13=LQFP_48 - duplicate
+ModelUpdate13=1
+ModelType14=PCBLIB
+ModelName14=RES_0805_(2x1.2x0.45)_0.125Вт
+ModelUpdate14=1
+ModelType15=PCBLIB
+ModelName15=RES_1206_(3.2x1.6x0.55)_0.25Вт
+ModelUpdate15=1
+ModelType16=PCBLIB
+ModelName16=RES_1210_(3.2x2.5x0.55)_0.5Вт
+ModelUpdate16=1
+ModelType17=PCBLIB
+ModelName17=RES_2512_(6.3x3.1x0.6)_2Вт
+ModelUpdate17=1
+ModelType18=PCBLIB
+ModelName18=SB_6x6_SMD
+ModelUpdate18=1
+ModelType19=PCBLIB
+ModelName19=SD card connector2
+ModelUpdate19=1
+ModelType20=PCBLIB
+ModelName20=SO-16_(0.3')
+ModelUpdate20=1
+ModelType21=PCBLIB
+ModelName21=SO-8_(0.15')
+ModelUpdate21=1
+ModelType22=PCBLIB
+ModelName22=SOP-8
+ModelUpdate22=1
+ModelType23=PCBLIB
+ModelName23=SOT-223_Dupl
+ModelUpdate23=1
+ModelType24=PCBLIB
+ModelName24=SOT-23
+ModelUpdate24=1
+ModelType25=PCBLIB
+ModelName25=sot-23-5
+ModelUpdate25=1
+ModelType26=PCBLIB
+ModelName26=SOT-323-3L
+ModelUpdate26=1
+ModelType27=PCBLIB
+ModelName27=VD_LEDsx2
+ModelUpdate27=1
+ModelType28=PCBLIB
+ModelName28=VD_SMA_(Do-214AC)
+ModelUpdate28=1
+ModelType29=PCBLIB
+ModelName29=VD_SMB_(Do-214AA)
+ModelUpdate29=1
+ModelType30=PCBLIB
+ModelName30=VD_SMC_(Do-214AB)
+ModelUpdate30=1
+ModelType31=PCBLIB
+ModelName31=VD_SOD523
+ModelUpdate31=1
+ModelType32=PCBLIB
+ModelName32=WRB2405S(SIP-8) - duplicate
+ModelUpdate32=1
+ModelType33=PCBLIB
+ModelName33=XP_5x2_PIN_V
+ModelUpdate33=1
+ModelType34=PCBLIB
+ModelName34=XS_3_Pin _3.8mm
+ModelUpdate34=1
+ModelType35=PCBLIB
+ModelName35=XS_7x2_PIN
+ModelUpdate35=1
+ModelType36=PCBLIB
+ModelName36=XS_HR911105A(RJ45)
+ModelUpdate36=1
+ModelType37=PCBLIB
+ModelName37=Xtal_HC49S
+ModelUpdate37=1
+ModelType38=PCBLIB
+ModelName38=YC-164
+ModelUpdate38=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
@@ -1179,23 +1574,40 @@ UpdateVariants=1
 PartTypes=0
 
 [NetInfos]
-Net1=NetName=CAN2_TX|NetColor=$00BDC3FF
-Net2=NetName=CAN1_RX|NetColor=$008F88FF
-Net3=NetName=CAN1_TX|NetColor=$00D8A1FF
-Net4=NetName=D_GND|NetColor=$00433532
+Net1=NetName=D_GND|NetColor=$00433532
+Net2=NetName=CAN1_TX|NetColor=$00D8A1FF
+Net3=NetName=RS_RX|NetColor=$00AD7500
+Net4=NetName=+3.3V_AM|NetColor=$000083FD
 Net5=NetName=+5V_CAN2|NetColor=$005EEFFF
-Net6=NetName=RS_RX|NetColor=$00AD7500
-Net7=NetName=+5V_RS|NetColor=$000000BF
-Net8=NetName=RS_TX|NetColor=$00DCC9C2
-Net9=NetName=Gnd_CAN1|NetColor=$00B5C9CF
-Net10=NetName=Gnd_CAN2|NetColor=$00007E8E
-Net11=NetName=GND_RS|NetColor=$006B6E78
-Net12=NetName=A_GND|NetColor=$00094E5A
-Net13=NetName=BUZZ|NetColor=$009EB7D1
-Net14=NetName=+3.3V_D|NetColor=$0000EEFF
-Net15=NetName=+5V_D|NetColor=$006E6EFF
-Net16=NetName=+5V_CAN1|NetColor=$0081F6FF
-Net17=NetName=CAN2_RX|NetColor=$008E76EC
+Net6=NetName=NRF_CD|NetColor=$00BDC3FF
+Net7=NetName=ETH_/INT|NetColor=$006C7800
+Net8=NetName=NRF_CSN(NSS)|NetColor=$00094E5A
+Net9=NetName=NRF_MOSI|NetColor=$001AC5FF
+Net10=NetName=GND_RS|NetColor=$006B6E78
+Net11=NetName=NRF_AM|NetColor=$007BA5FF
+Net12=NetName=NRF_CE|NetColor=$000078F7
+Net13=NetName=NRF_Pwr|NetColor=$000093A4
+Net14=NetName=CAN2_RX|NetColor=$008E76EC
+Net15=NetName=+5V_RS|NetColor=$000000BF
+Net16=NetName=CAN2_TX|NetColor=$00BDC3FF
+Net17=NetName=CAN1_RX|NetColor=$008F88FF
+Net18=NetName=ETH_RST|NetColor=$000A5245
+Net19=NetName=NRF_DR|NetColor=$008BCBFF
+Net20=NetName=RS_TX|NetColor=$00DCC9C2
+Net21=NetName=ETH_MOSI|NetColor=$0053B23B
+Net22=NetName=NRF_SCK|NetColor=$00006D84
+Net23=NetName=ETH_MISO|NetColor=$00A6D07C
+Net24=NetName=ETH_SCS(NSS)|NetColor=$0000BE00
+Net25=NetName=Gnd_CAN1|NetColor=$00B5C9CF
+Net26=NetName=Gnd_CAN2|NetColor=$00007E8E
+Net27=NetName=A_GND|NetColor=$00094E5A
+Net28=NetName=NRF_TxEN|NetColor=$003042C6
+Net29=NetName=BUZZ|NetColor=$009EB7D1
+Net30=NetName=NRF_MISO|NetColor=$00009CFF
+Net31=NetName=+3.3V_D|NetColor=$0000EEFF
+Net32=NetName=+5V_D|NetColor=$006E6EFF
+Net33=NetName=+5V_CAN1|NetColor=$0081F6FF
+Net34=NetName=ETH_SCLK|NetColor=$0089A829
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
