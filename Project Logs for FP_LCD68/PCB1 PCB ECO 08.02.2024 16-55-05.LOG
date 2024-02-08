@@ -1,0 +1,196 @@
+Removed Member From Class: ClassName=Main1 Member=B?
+Removed Member From Class: ClassName=Main1 Member=BQ?
+Removed Member From Class: ClassName=Main1 Member=DA?
+Removed Member From Class: ClassName=Main1 Member=DD1
+Removed Member From Class: ClassName=Out_Interface2 Member=DD?
+Removed Member From Class: ClassName=LCD_Board Member=L?
+Removed Member From Class: ClassName=Main1 Member=SB?
+Removed Member From Class: ClassName=Main1 Member=VT?
+Added Component: Designator=XP?(WG240128B)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Идентификатор"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечания"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип"; Value = ""; VariantName = "[No Variations]"
+Change Class Name : Old Net Name=LCD_Board New Net Name=Main1
+Change Class Name : Old Net Name=Main1 New Net Name=LCD_Board
+Change Class Name : Old Net Name=Out_Interface2 New Net Name=Power
+Change Class Name : Old Net Name=Power New Net Name=Out_Interface2
+Added Member To Class: ClassName=Main1 Member=Component B? Batt
+Added Member To Class: ClassName=Main1 Member=Component BQ? 
+Added Member To Class: ClassName=Main1 Member=Component BQ? 
+Added Member To Class: ClassName=Ethernet Member=Component C? 0805
+Added Member To Class: ClassName=Ethernet Member=Component C? 0805
+Added Member To Class: ClassName=Ethernet Member=Component C? 1206
+Added Member To Class: ClassName=Ethernet Member=Component C? 0805
+Added Member To Class: ClassName=Ethernet Member=Component C? 0805
+Added Member To Class: ClassName=Ethernet Member=Component C? 0805
+Added Member To Class: ClassName=Ethernet Member=Component C? 0805
+Added Member To Class: ClassName=Ethernet Member=Component C? 0805
+Added Member To Class: ClassName=Ethernet Member=Component C? 0805
+Added Member To Class: ClassName=Ethernet Member=Component C? 0805
+Added Member To Class: ClassName=Ethernet Member=Component C? 0805
+Added Member To Class: ClassName=Ethernet Member=Component C? 0805
+Added Member To Class: ClassName=Ethernet Member=Component C? 0805
+Added Member To Class: ClassName=Ethernet Member=Component C? 0805
+Added Member To Class: ClassName=Ethernet Member=Component C? TAN_A
+Added Member To Class: ClassName=Main1 Member=Component C? 0805
+Added Member To Class: ClassName=Main1 Member=Component C? 0805
+Added Member To Class: ClassName=Main1 Member=Component C? 0805
+Added Member To Class: ClassName=Main1 Member=Component C? 0805
+Added Member To Class: ClassName=Main1 Member=Component C? 0805
+Added Member To Class: ClassName=Main1 Member=Component C? 0805
+Added Member To Class: ClassName=Main1 Member=Component C? 0805
+Added Member To Class: ClassName=Main1 Member=Component C? 0805
+Added Member To Class: ClassName=Main1 Member=Component C? 0805
+Added Member To Class: ClassName=Main1 Member=Component C? TAN_A
+Added Member To Class: ClassName=Main1 Member=Component C? 0805
+Added Member To Class: ClassName=Main1 Member=Component C? 1206
+Added Member To Class: ClassName=Main1 Member=Component C? 0805
+Added Member To Class: ClassName=Main1 Member=Component C? 0805
+Added Member To Class: ClassName=LCD_Board Member=Component C? Cборка 4 шт
+Added Member To Class: ClassName=LCD_Board Member=Component C? Cборка 4 шт
+Added Member To Class: ClassName=LCD_Board Member=Component C? Cборка 4 шт
+Added Member To Class: ClassName=LCD_Board Member=Component C? 0805
+Added Member To Class: ClassName=Power Member=Component C? 1206
+Added Member To Class: ClassName=Power Member=Component C? 0805
+Added Member To Class: ClassName=Power Member=Component C? K50-35
+Added Member To Class: ClassName=Power Member=Component C? TAN_A
+Added Member To Class: ClassName=Power Member=Component C? TAN_A
+Added Member To Class: ClassName=Power Member=Component C? TAN_A
+Added Member To Class: ClassName=Power Member=Component C? 0805
+Added Member To Class: ClassName=Power Member=Component C? 0805
+Added Member To Class: ClassName=Power Member=Component C? 0805
+Added Member To Class: ClassName=Out_Interface2 Member=Component C? 0805
+Added Member To Class: ClassName=Out_Interface2 Member=Component C? 0805
+Added Member To Class: ClassName=Out_Interface2 Member=Component C? TAN_B
+Added Member To Class: ClassName=Out_Interface2 Member=Component C? 0805
+Added Member To Class: ClassName=Out_Interface2 Member=Component C? 0805
+Added Member To Class: ClassName=Out_Interface2 Member=Component C? 0805
+Added Member To Class: ClassName=Out_Interface2 Member=Component C? 0805
+Added Member To Class: ClassName=Out_Interface2 Member=Component C? 0805
+Added Member To Class: ClassName=Out_Interface2 Member=Component C? 0805
+Added Member To Class: ClassName=Out_Interface2 Member=Component C? 0805
+Added Member To Class: ClassName=Out_Interface2 Member=Component C? 0805
+Added Member To Class: ClassName=Out_Interface2 Member=Component C? 0805
+Added Member To Class: ClassName=Out_Interface2 Member=Component C? 0805
+Added Member To Class: ClassName=Out_Interface2 Member=Component C? 0805
+Added Member To Class: ClassName=Out_Interface2 Member=Component C? 0805
+Added Member To Class: ClassName=Out_Interface2 Member=Component C? 0805
+Added Member To Class: ClassName=Out_Interface2 Member=Component C? 0805
+Added Member To Class: ClassName=Out_Interface2 Member=Component C? 0805
+Added Member To Class: ClassName=Out_Interface2 Member=Component C? 0805
+Added Member To Class: ClassName=Out_Interface2 Member=Component C? 0805
+Added Member To Class: ClassName=Out_Interface2 Member=Component C? TAN_B
+Added Member To Class: ClassName=Main1 Member=Component DA? buzzer
+Added Member To Class: ClassName=Out_Interface2 Member=Component DA? ISO1050DW
+Added Member To Class: ClassName=Main1 Member=Component DD1 DD_STM32F407VGT6
+Added Member To Class: ClassName=Out_Interface2 Member=Component DD? 74HC1G14GV
+Added Member To Class: ClassName=Out_Interface2 Member=Component DD? ST3485EBDR
+Added Member To Class: ClassName=Out_Interface2 Member=Component DD? SCM3721ASA
+Added Member To Class: ClassName=Out_Interface2 Member=Component G? AM1S-Z
+Added Member To Class: ClassName=Out_Interface2 Member=Component G? AM1S-Z
+Added Member To Class: ClassName=LCD_Board Member=Component L? PBY201209T-601Y-N
+Added Member To Class: ClassName=Power Member=Component L? B82790
+Added Member To Class: ClassName=Power Member=Component L? PBY201209T-601Y-N
+Added Member To Class: ClassName=Out_Interface2 Member=Component L? PBY201209T-601Y-N
+Added Member To Class: ClassName=Out_Interface2 Member=Component L? SRN3015-100M
+Added Member To Class: ClassName=Out_Interface2 Member=Component L? SRN3015
+Added Member To Class: ClassName=Ethernet Member=Component R? сборка 4шт
+Added Member To Class: ClassName=Ethernet Member=Component R? сборка 4шт
+Added Member To Class: ClassName=Ethernet Member=Component R? сборка 4шт
+Added Member To Class: ClassName=Ethernet Member=Component R? 0805
+Added Member To Class: ClassName=Ethernet Member=Component R? 0805
+Added Member To Class: ClassName=Ethernet Member=Component R? сборка 4шт
+Added Member To Class: ClassName=Ethernet Member=Component R? 0805
+Added Member To Class: ClassName=Ethernet Member=Component R? 0805
+Added Member To Class: ClassName=Ethernet Member=Component R? 0805
+Added Member To Class: ClassName=Ethernet Member=Component R? сборка 4шт
+Added Member To Class: ClassName=Ethernet Member=Component R? сборка 4шт
+Added Member To Class: ClassName=Ethernet Member=Component R? 0805
+Added Member To Class: ClassName=Ethernet Member=Component R? 0805
+Added Member To Class: ClassName=Ethernet Member=Component R? 0805
+Added Member To Class: ClassName=Ethernet Member=Component R? 0805
+Added Member To Class: ClassName=Ethernet Member=Component R? 0805
+Added Member To Class: ClassName=Ethernet Member=Component R? 0805
+Added Member To Class: ClassName=Ethernet Member=Component R? сборка 4шт
+Added Member To Class: ClassName=Ethernet Member=Component R? сборка 4шт
+Added Member To Class: ClassName=Ethernet Member=Component R? сборка 4шт
+Added Member To Class: ClassName=Ethernet Member=Component R? сборка 4шт
+Added Member To Class: ClassName=Ethernet Member=Component R? сборка 4шт
+Added Member To Class: ClassName=Ethernet Member=Component R? сборка 4шт
+Added Member To Class: ClassName=Main1 Member=Component R? сборка 4шт
+Added Member To Class: ClassName=Main1 Member=Component R? сборка 4шт
+Added Member To Class: ClassName=Main1 Member=Component R? 0805
+Added Member To Class: ClassName=Main1 Member=Component R? 0805
+Added Member To Class: ClassName=Main1 Member=Component R? сборка 4шт
+Added Member To Class: ClassName=Main1 Member=Component R? сборка 4шт
+Added Member To Class: ClassName=Main1 Member=Component R? 0805
+Added Member To Class: ClassName=Main1 Member=Component R? 0805
+Added Member To Class: ClassName=Main1 Member=Component R? 0805
+Added Member To Class: ClassName=Main1 Member=Component R? 0805
+Added Member To Class: ClassName=Main1 Member=Component R? сборка 4шт
+Added Member To Class: ClassName=Main1 Member=Component R? сборка 4шт
+Added Member To Class: ClassName=Main1 Member=Component R? сборка 4шт
+Added Member To Class: ClassName=Main1 Member=Component R? сборка 4шт
+Added Member To Class: ClassName=LCD_Board Member=Component R? сборка 4шт
+Added Member To Class: ClassName=LCD_Board Member=Component R? 0805
+Added Member To Class: ClassName=LCD_Board Member=Component R? сборка 4шт
+Added Member To Class: ClassName=LCD_Board Member=Component R? сборка 4шт
+Added Member To Class: ClassName=Power Member=Component R? 0805
+Added Member To Class: ClassName=Out_Interface2 Member=Component R? сборка 4шт
+Added Member To Class: ClassName=Out_Interface2 Member=Component R? сборка 4шт
+Added Member To Class: ClassName=Out_Interface2 Member=Component R? 1210
+Added Member To Class: ClassName=Out_Interface2 Member=Component R? 1206
+Added Member To Class: ClassName=Out_Interface2 Member=Component R? 0805
+Added Member To Class: ClassName=Out_Interface2 Member=Component R? 1206
+Added Member To Class: ClassName=Out_Interface2 Member=Component R? 1210
+Added Member To Class: ClassName=Out_Interface2 Member=Component R? 2512
+Added Member To Class: ClassName=Out_Interface2 Member=Component R? сборка 4шт
+Added Member To Class: ClassName=Out_Interface2 Member=Component R? 0805
+Added Member To Class: ClassName=Out_Interface2 Member=Component R? сборка 4шт
+Added Member To Class: ClassName=Out_Interface2 Member=Component R? сборка 4шт
+Added Member To Class: ClassName=Out_Interface2 Member=Component R? 0805
+Added Member To Class: ClassName=Out_Interface2 Member=Component R? сборка 4шт
+Added Member To Class: ClassName=Out_Interface2 Member=Component R? сборка 4шт
+Added Member To Class: ClassName=Out_Interface2 Member=Component R? сборка 4шт
+Added Member To Class: ClassName=Out_Interface2 Member=Component R? сборка 4шт
+Added Member To Class: ClassName=Main1 Member=Component SB? SB_6x6_SMD
+Added Member To Class: ClassName=Main1 Member=Component VD? VD_BAT54C
+Added Member To Class: ClassName=Main1 Member=Component VD? VD_SH_SMA
+Added Member To Class: ClassName=Main1 Member=Component VD? ESD
+Added Member To Class: ClassName=Main1 Member=Component VD? VD_BAT54S
+Added Member To Class: ClassName=Main1 Member=Component VD? VD_BAT54S
+Added Member To Class: ClassName=Main1 Member=Component VD? VD_Led_0805
+Added Member To Class: ClassName=Main1 Member=Component VD? VD_SH_SMA
+Added Member To Class: ClassName=Main1 Member=Component VD? ESD
+Added Member To Class: ClassName=LCD_Board Member=Component VD? сборка 5шт
+Added Member To Class: ClassName=LCD_Board Member=Component VD? сборка 5шт
+Added Member To Class: ClassName=LCD_Board Member=Component VD? сборка 5шт
+Added Member To Class: ClassName=LCD_Board Member=Component VD? сборка 5шт
+Added Member To Class: ClassName=Power Member=Component VD? VD_SH_SMA
+Added Member To Class: ClassName=Power Member=Component VD? STPS3150U
+Added Member To Class: ClassName=Power Member=Component VD? SM15T30A
+Added Member To Class: ClassName=Power Member=Component VD? VD_SMA
+Added Member To Class: ClassName=Power Member=Component VD? VD_Led_0805
+Added Member To Class: ClassName=Out_Interface2 Member=Component VD? NUP2105L
+Added Member To Class: ClassName=Out_Interface2 Member=Component VD? NUP2105L
+Added Member To Class: ClassName=Out_Interface2 Member=Component VD? ESDA25W
+Added Member To Class: ClassName=Out_Interface2 Member=Component VD? SMBJ5.0A
+Added Member To Class: ClassName=Out_Interface2 Member=Component VD? VD_SH_SMA
+Added Member To Class: ClassName=Out_Interface2 Member=Component VD? SMBJ5.0A
+Added Member To Class: ClassName=Out_Interface2 Member=Component VD? VD_SMA
+Added Member To Class: ClassName=Main1 Member=Component VT? BC847B
+Added Member To Class: ClassName=Main1 Member=Component XP? XP_5x2_V
+Added Member To Class: ClassName=Out_Interface2 Member=Component XS? XS_3_pin_3.8mm
+Added Member To Class: ClassName=Out_Interface2 Member=Component XS? XS_7x2_pin
+Added Member To Class: ClassName=Out_Interface2 Member=Component XS? XS_3_pin_3.8mm
+Added Room: Name=Ethernet
+Added Room: Name=LCD_Board
+Added Room: Name=Main1
+Added Room: Name=Out_Interface2
+Added Room: Name=Power

@@ -1,0 +1,155 @@
+Removed Member From Class: ClassName=Out_Interface2 Member=DD?
+Change Class Name : Old Net Name=Out_Interface2 New Net Name=Power
+Change Class Name : Old Net Name=Power New Net Name=Out_Interface2
+Added Member To Class: ClassName=Main1 Member=Component BQ? 
+Added Member To Class: ClassName=Ethernet Member=Component C? TAN_A
+Added Member To Class: ClassName=Ethernet Member=Component C? 0805
+Added Member To Class: ClassName=Ethernet Member=Component C? 0805
+Added Member To Class: ClassName=Ethernet Member=Component C? 0805
+Added Member To Class: ClassName=Ethernet Member=Component C? 0805
+Added Member To Class: ClassName=Ethernet Member=Component C? 0805
+Added Member To Class: ClassName=Ethernet Member=Component C? 0805
+Added Member To Class: ClassName=Ethernet Member=Component C? 0805
+Added Member To Class: ClassName=Ethernet Member=Component C? 0805
+Added Member To Class: ClassName=Ethernet Member=Component C? 0805
+Added Member To Class: ClassName=Ethernet Member=Component C? 0805
+Added Member To Class: ClassName=Ethernet Member=Component C? 0805
+Added Member To Class: ClassName=Ethernet Member=Component C? 0805
+Added Member To Class: ClassName=Ethernet Member=Component C? 0805
+Added Member To Class: ClassName=Ethernet Member=Component C? 1206
+Added Member To Class: ClassName=Main1 Member=Component C? 0805
+Added Member To Class: ClassName=Main1 Member=Component C? 0805
+Added Member To Class: ClassName=Main1 Member=Component C? 1206
+Added Member To Class: ClassName=Main1 Member=Component C? TAN_A
+Added Member To Class: ClassName=Main1 Member=Component C? 0805
+Added Member To Class: ClassName=Main1 Member=Component C? 0805
+Added Member To Class: ClassName=Main1 Member=Component C? 0805
+Added Member To Class: ClassName=Main1 Member=Component C? 0805
+Added Member To Class: ClassName=Main1 Member=Component C? 0805
+Added Member To Class: ClassName=Main1 Member=Component C? 0805
+Added Member To Class: ClassName=Main1 Member=Component C? 0805
+Added Member To Class: ClassName=Main1 Member=Component C? 0805
+Added Member To Class: ClassName=Main1 Member=Component C? 0805
+Added Member To Class: ClassName=Power Member=Component C? TAN_A
+Added Member To Class: ClassName=Power Member=Component C? 0805
+Added Member To Class: ClassName=Power Member=Component C? 0805
+Added Member To Class: ClassName=Power Member=Component C? TAN_A
+Added Member To Class: ClassName=Power Member=Component C? 0805
+Added Member To Class: ClassName=Power Member=Component C? K50-35
+Added Member To Class: ClassName=Power Member=Component C? TAN_A
+Added Member To Class: ClassName=Power Member=Component C? 0805
+Added Member To Class: ClassName=Power Member=Component C? 1206
+Added Member To Class: ClassName=Out_Interface2 Member=Component C? TAN_B
+Added Member To Class: ClassName=Out_Interface2 Member=Component C? 0805
+Added Member To Class: ClassName=Out_Interface2 Member=Component C? 0805
+Added Member To Class: ClassName=Out_Interface2 Member=Component C? 0805
+Added Member To Class: ClassName=Out_Interface2 Member=Component C? 0805
+Added Member To Class: ClassName=Out_Interface2 Member=Component C? 0805
+Added Member To Class: ClassName=Out_Interface2 Member=Component C? 0805
+Added Member To Class: ClassName=Out_Interface2 Member=Component C? 0805
+Added Member To Class: ClassName=Out_Interface2 Member=Component C? 0805
+Added Member To Class: ClassName=Out_Interface2 Member=Component C? 0805
+Added Member To Class: ClassName=Out_Interface2 Member=Component C? 0805
+Added Member To Class: ClassName=Out_Interface2 Member=Component C? TAN_B
+Added Member To Class: ClassName=Out_Interface2 Member=Component C? 0805
+Added Member To Class: ClassName=Out_Interface2 Member=Component C? 0805
+Added Member To Class: ClassName=Out_Interface2 Member=Component C? 0805
+Added Member To Class: ClassName=Out_Interface2 Member=Component C? 0805
+Added Member To Class: ClassName=Out_Interface2 Member=Component C? 0805
+Added Member To Class: ClassName=Out_Interface2 Member=Component C? 0805
+Added Member To Class: ClassName=Out_Interface2 Member=Component C? 0805
+Added Member To Class: ClassName=Out_Interface2 Member=Component C? 0805
+Added Member To Class: ClassName=Out_Interface2 Member=Component C? 0805
+Added Member To Class: ClassName=Out_Interface2 Member=Component DA? ISO1050DW
+Added Member To Class: ClassName=Out_Interface2 Member=Component DD? 74HC1G14GV
+Added Member To Class: ClassName=Out_Interface2 Member=Component DD? SCM3721ASA
+Added Member To Class: ClassName=Out_Interface2 Member=Component DD? ST3485EBDR
+Added Member To Class: ClassName=Out_Interface2 Member=Component G? AM1S-Z
+Added Member To Class: ClassName=Out_Interface2 Member=Component G? AM1S-Z
+Added Member To Class: ClassName=Power Member=Component L? PBY201209T-601Y-N
+Added Member To Class: ClassName=Power Member=Component L? B82790
+Added Member To Class: ClassName=Out_Interface2 Member=Component L? SRN3015-100M
+Added Member To Class: ClassName=Out_Interface2 Member=Component L? SRN3015
+Added Member To Class: ClassName=Out_Interface2 Member=Component L? PBY201209T-601Y-N
+Added Member To Class: ClassName=Ethernet Member=Component R? 0805
+Added Member To Class: ClassName=Ethernet Member=Component R? 0805
+Added Member To Class: ClassName=Ethernet Member=Component R? 0805
+Added Member To Class: ClassName=Ethernet Member=Component R? 0805
+Added Member To Class: ClassName=Ethernet Member=Component R? 0805
+Added Member To Class: ClassName=Ethernet Member=Component R? 0805
+Added Member To Class: ClassName=Ethernet Member=Component R? 0805
+Added Member To Class: ClassName=Ethernet Member=Component R? 0805
+Added Member To Class: ClassName=Ethernet Member=Component R? 0805
+Added Member To Class: ClassName=Ethernet Member=Component R? 0805
+Added Member To Class: ClassName=Ethernet Member=Component R? 0805
+Added Member To Class: ClassName=Ethernet Member=Component R? סבמנךא 4רע
+Added Member To Class: ClassName=Ethernet Member=Component R? סבמנךא 4רע
+Added Member To Class: ClassName=Ethernet Member=Component R? סבמנךא 4רע
+Added Member To Class: ClassName=Ethernet Member=Component R? סבמנךא 4רע
+Added Member To Class: ClassName=Ethernet Member=Component R? סבמנךא 4רע
+Added Member To Class: ClassName=Ethernet Member=Component R? סבמנךא 4רע
+Added Member To Class: ClassName=Ethernet Member=Component R? סבמנךא 4רע
+Added Member To Class: ClassName=Ethernet Member=Component R? סבמנךא 4רע
+Added Member To Class: ClassName=Ethernet Member=Component R? סבמנךא 4רע
+Added Member To Class: ClassName=Ethernet Member=Component R? סבמנךא 4רע
+Added Member To Class: ClassName=Ethernet Member=Component R? סבמנךא 4רע
+Added Member To Class: ClassName=Ethernet Member=Component R? סבמנךא 4רע
+Added Member To Class: ClassName=Main1 Member=Component R? 0805
+Added Member To Class: ClassName=Main1 Member=Component R? 0805
+Added Member To Class: ClassName=Main1 Member=Component R? סבמנךא 4רע
+Added Member To Class: ClassName=Main1 Member=Component R? סבמנךא 4רע
+Added Member To Class: ClassName=Main1 Member=Component R? סבמנךא 4רע
+Added Member To Class: ClassName=Main1 Member=Component R? סבמנךא 4רע
+Added Member To Class: ClassName=Main1 Member=Component R? סבמנךא 4רע
+Added Member To Class: ClassName=Main1 Member=Component R? סבמנךא 4רע
+Added Member To Class: ClassName=Main1 Member=Component R? 0805
+Added Member To Class: ClassName=Main1 Member=Component R? 0805
+Added Member To Class: ClassName=Main1 Member=Component R? 0805
+Added Member To Class: ClassName=Main1 Member=Component R? 0805
+Added Member To Class: ClassName=Main1 Member=Component R? סבמנךא 4רע
+Added Member To Class: ClassName=Main1 Member=Component R? סבמנךא 4רע
+Added Member To Class: ClassName=Power Member=Component R? 0805
+Added Member To Class: ClassName=Out_Interface2 Member=Component R? סבמנךא 4רע
+Added Member To Class: ClassName=Out_Interface2 Member=Component R? סבמנךא 4רע
+Added Member To Class: ClassName=Out_Interface2 Member=Component R? סבמנךא 4רע
+Added Member To Class: ClassName=Out_Interface2 Member=Component R? סבמנךא 4רע
+Added Member To Class: ClassName=Out_Interface2 Member=Component R? סבמנךא 4רע
+Added Member To Class: ClassName=Out_Interface2 Member=Component R? סבמנךא 4רע
+Added Member To Class: ClassName=Out_Interface2 Member=Component R? 1210
+Added Member To Class: ClassName=Out_Interface2 Member=Component R? 2512
+Added Member To Class: ClassName=Out_Interface2 Member=Component R? 0805
+Added Member To Class: ClassName=Out_Interface2 Member=Component R? 1210
+Added Member To Class: ClassName=Out_Interface2 Member=Component R? 0805
+Added Member To Class: ClassName=Out_Interface2 Member=Component R? 1206
+Added Member To Class: ClassName=Out_Interface2 Member=Component R? 0805
+Added Member To Class: ClassName=Out_Interface2 Member=Component R? 1206
+Added Member To Class: ClassName=Out_Interface2 Member=Component R? סבמנךא 4רע
+Added Member To Class: ClassName=Out_Interface2 Member=Component R? סבמנךא 4רע
+Added Member To Class: ClassName=Out_Interface2 Member=Component R? סבמנךא 4רע
+Added Member To Class: ClassName=Main1 Member=Component VD? VD_Led_0805
+Added Member To Class: ClassName=Main1 Member=Component VD? ESD
+Added Member To Class: ClassName=Main1 Member=Component VD? VD_SH_SMA
+Added Member To Class: ClassName=Main1 Member=Component VD? ESD
+Added Member To Class: ClassName=Main1 Member=Component VD? ESD
+Added Member To Class: ClassName=Main1 Member=Component VD? VD_SH_SMA
+Added Member To Class: ClassName=Main1 Member=Component VD? VD_BAT54C
+Added Member To Class: ClassName=Power Member=Component VD? SM15T30A
+Added Member To Class: ClassName=Power Member=Component VD? STPS3150U
+Added Member To Class: ClassName=Power Member=Component VD? VD_SH_SMA
+Added Member To Class: ClassName=Power Member=Component VD? VD_SMA
+Added Member To Class: ClassName=Power Member=Component VD? VD_Led_0805
+Added Member To Class: ClassName=Out_Interface2 Member=Component VD? NUP2105L
+Added Member To Class: ClassName=Out_Interface2 Member=Component VD? SMBJ5.0A
+Added Member To Class: ClassName=Out_Interface2 Member=Component VD? ESDA25W
+Added Member To Class: ClassName=Out_Interface2 Member=Component VD? NUP2105L
+Added Member To Class: ClassName=Out_Interface2 Member=Component VD? SMBJ5.0A
+Added Member To Class: ClassName=Out_Interface2 Member=Component VD? VD_SMA
+Added Member To Class: ClassName=Out_Interface2 Member=Component VD? VD_SH_SMA
+Added Member To Class: ClassName=Out_Interface2 Member=Component XS? XS_3_pin_3.8mm
+Added Member To Class: ClassName=Out_Interface2 Member=Component XS? XS_3_pin_3.8mm
+Added Member To Class: ClassName=Out_Interface2 Member=Component XS? XS_7x2_pin
+Added Room: Name=Ethernet
+Added Room: Name=LCD_Board
+Added Room: Name=Main1
+Added Room: Name=Out_Interface2
+Added Room: Name=Power

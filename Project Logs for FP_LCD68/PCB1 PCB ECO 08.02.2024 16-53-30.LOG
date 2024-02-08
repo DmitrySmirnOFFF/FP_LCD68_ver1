@@ -1,0 +1,440 @@
+Removed Pin From Net: NetName=LED0_MC Pin=DD1-1
+Removed Pin From Net: NetName=D_GND Pin=VD?-1
+Removed Pin From Net: NetName=NRST_MC Pin=VD?-2
+Removed Member From Class: ClassName=Main1 Member=B?
+Removed Member From Class: ClassName=Main1 Member=BQ?
+Removed Member From Class: ClassName=Main1 Member=DD1
+Removed Member From Class: ClassName=Out_Interface2 Member=DD?
+Removed Member From Class: ClassName=Out_Interface2 Member=G?
+Removed Member From Class: ClassName=Out_Interface2 Member=L?
+Removed Member From Class: ClassName=Main1 Member=SB?
+Removed Member From Class: ClassName=Main1 Member=VT?
+Removed Member From Class: ClassName=Main1 Member=XP?
+Change Component Footprint: Designator=VD? Old Footprint=VD_SOD523 New Footprint=SOT-363
+Change Component Comment : Designator=VD? Old Comment=ESD New Comment=сборка 5шт
+Change component parameters: Designator = "VD?"; Footprint = "SOT-363"; UniqueID = "\EVWPNDUR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Идентификатор"; Value = "PESD3V3L5UY "; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Корпус"; Value = "SMC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Наименование"; Value = "PESD3V3L5UY "; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Напряжение"; Value = "3.3V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Номинал"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Примечания"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Тип"; Value = "Диод"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP_0805_(2x1.25x1.3))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Аналог"; Value = "GRM21BR71H104K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Идентификатор"; Value = "CC0805KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "CC0805KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "0.1 uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечания"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CA0612)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Идентификатор"; Value = "CA0612KRX7R7BB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "CA0612KRX7R7BB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = " 0.1 uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечания"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CA0612)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Идентификатор"; Value = "CA0612KRX7R7BB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "CA0612KRX7R7BB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = " 0.1 uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечания"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CA0612)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Идентификатор"; Value = "CA0612KRX7R7BB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "CA0612KRX7R7BB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = " 0.1 uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечания"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CA0612)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Идентификатор"; Value = "CA0612KRX7R7BB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "CA0612KRX7R7BB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = " 0.1 uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечания"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP_0805_(2x1.25x1.3))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Аналог"; Value = "GRM21BR71H104K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Идентификатор"; Value = "CC0805KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "CC0805KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "0.1 uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечания"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Added Component: Designator=L?(L_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Идентификатор"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "PBY201209T-601Y-N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечания"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип"; Value = "Индуктивность"; VariantName = "[No Variations]"
+Added Component: Designator=R?(YC-164)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Идентификатор"; Value = "YC164-JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "1206U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "YC164-JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечания"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_0805_(2x1.2x0.45)_0.125Вт)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Идентификатор"; Value = "RC0805JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "RC0805JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "10 k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечания"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Component: Designator=R?(YC-164)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Идентификатор"; Value = "YC164-JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "1206U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "YC164-JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечания"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Component: Designator=R?(YC-164)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Идентификатор"; Value = "YC164-JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "1206U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "YC164-JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечания"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Component: Designator=R?(YC-164)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Идентификатор"; Value = "YC164-JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "1206U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "YC164-JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечания"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(SOT-23)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Идентификатор"; Value = "PESD3V3L2BT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "SOT-23-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "PESD3V3L2BT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = "3.3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечания"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип"; Value = "Защитные диоды"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(SOT-23)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Идентификатор"; Value = "PESD3V3L2BT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "SOT-23-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "PESD3V3L2BT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = "3.3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечания"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип"; Value = "Защитные диоды"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(SOT-363)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Идентификатор"; Value = "PESD3V3L5UY "; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "SMC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "PESD3V3L5UY "; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = "3.3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечания"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип"; Value = "Диод"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(SOT-363)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Идентификатор"; Value = "PESD3V3L5UY "; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "SMC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "PESD3V3L5UY "; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = "3.3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечания"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип"; Value = "Диод"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(SOT-363)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Идентификатор"; Value = "PESD3V3L5UY "; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "SMC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "PESD3V3L5UY "; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = "3.3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечания"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип"; Value = "Диод"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(SOT-363)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Идентификатор"; Value = "PESD3V3L5UY "; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "SMC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "PESD3V3L5UY "; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = "3.3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечания"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип"; Value = "Диод"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SD_SW Pin=C?-1
+Added Pin To Net: NetName=D_GND Pin=C?-2
+Added Pin To Net: NetName=D_GND Pin=C?-2
+Added Pin To Net: NetName=D_GND Pin=C?-5
+Added Pin To Net: NetName=D_GND Pin=C?-6
+Added Pin To Net: NetName=D_GND Pin=C?-7
+Added Pin To Net: NetName=D_GND Pin=C?-8
+Added Pin To Net: NetName=LED0_MC Pin=DD1-7
+Added Pin To Net: NetName=D_GND Pin=L?-2
+Added Pin To Net: NetName=+3.3V_D Pin=R?-1
+Added Pin To Net: NetName=+3.3V_D Pin=R?-5
+Added Pin To Net: NetName=+3.3V_D Pin=R?-6
+Added Pin To Net: NetName=+3.3V_D Pin=R?-7
+Added Pin To Net: NetName=+3.3V_D Pin=R?-8
+Added Pin To Net: NetName=D_GND Pin=VD?-2
+Added Pin To Net: NetName=D_GND Pin=VD?-2
+Added Pin To Net: NetName=D_GND Pin=VD?-2
+Added Pin To Net: NetName=D_GND Pin=VD?-2
+Added Pin To Net: NetName=D_GND Pin=VD?-2
+Added Pin To Net: NetName=NRST_MC Pin=VD?-2
+Added Pin To Net: NetName=SD_SW Pin=VD?-2
+Added Pin To Net: NetName=D_GND Pin=VD?-3
+Added Pin To Net: NetName=D_GND Pin=VD?-3
+Added Pin To Net: NetName=FP_SW1 Pin=C?-1
+Added Pin To Net: NetName=FP_SW1 Pin=DD1-1
+Added Pin To Net: NetName=FP_SW1 Pin=R?-1
+Added Pin To Net: NetName=FP_SW1 Pin=VD?-1
+Added Pin To Net: NetName=FP_SW1 Pin=XP?-2
+Added Net: Name=FP_SW1
+Added Pin To Net: NetName=FP_SW2 Pin=C?-2
+Added Pin To Net: NetName=FP_SW2 Pin=DD1-2
+Added Pin To Net: NetName=FP_SW2 Pin=R?-2
+Added Pin To Net: NetName=FP_SW2 Pin=VD?-3
+Added Pin To Net: NetName=FP_SW2 Pin=XP?-3
+Added Net: Name=FP_SW2
+Added Pin To Net: NetName=FP_SW3 Pin=C?-3
+Added Pin To Net: NetName=FP_SW3 Pin=C?-4
+Added Pin To Net: NetName=FP_SW3 Pin=DD1-3
+Added Pin To Net: NetName=FP_SW3 Pin=R?-3
+Added Pin To Net: NetName=FP_SW3 Pin=VD?-4
+Added Pin To Net: NetName=FP_SW3 Pin=VD?-5
+Added Pin To Net: NetName=FP_SW3 Pin=XP?-4
+Added Net: Name=FP_SW3
+Added Pin To Net: NetName=FP_SW4 Pin=DD1-4
+Added Pin To Net: NetName=FP_SW4 Pin=R?-4
+Added Pin To Net: NetName=FP_SW4 Pin=XP?-5
+Added Net: Name=FP_SW4
+Added Pin To Net: NetName=FP_SW5 Pin=C?-1
+Added Pin To Net: NetName=FP_SW5 Pin=DD1-5
+Added Pin To Net: NetName=FP_SW5 Pin=R?-2
+Added Pin To Net: NetName=FP_SW5 Pin=VD?-6
+Added Pin To Net: NetName=FP_SW5 Pin=XP?-6
+Added Net: Name=FP_SW5
+Change Class Name : Old Net Name=Main1 New Net Name=Power
+Change Class Name : Old Net Name=Out_Interface2 New Net Name=Main1
+Change Class Name : Old Net Name=Power New Net Name=Out_Interface2
+Added Member To Class: ClassName=Main1 Member=Component B? Batt
+Added Member To Class: ClassName=Main1 Member=Component BQ? 
+Added Member To Class: ClassName=Main1 Member=Component BQ? 
+Added Member To Class: ClassName=Ethernet Member=Component C? 0805
+Added Member To Class: ClassName=Ethernet Member=Component C? 0805
+Added Member To Class: ClassName=Ethernet Member=Component C? 0805
+Added Member To Class: ClassName=Ethernet Member=Component C? 0805
+Added Member To Class: ClassName=Ethernet Member=Component C? 0805
+Added Member To Class: ClassName=Ethernet Member=Component C? 1206
+Added Member To Class: ClassName=Ethernet Member=Component C? 0805
+Added Member To Class: ClassName=Ethernet Member=Component C? 0805
+Added Member To Class: ClassName=Ethernet Member=Component C? 0805
+Added Member To Class: ClassName=Ethernet Member=Component C? 0805
+Added Member To Class: ClassName=Ethernet Member=Component C? 0805
+Added Member To Class: ClassName=Ethernet Member=Component C? TAN_A
+Added Member To Class: ClassName=Ethernet Member=Component C? 0805
+Added Member To Class: ClassName=Ethernet Member=Component C? 0805
+Added Member To Class: ClassName=Ethernet Member=Component C? 0805
+Added Member To Class: ClassName=LCD_Board Member=Component C? Cборка 4 шт
+Added Member To Class: ClassName=LCD_Board Member=Component C? Cборка 4 шт
+Added Member To Class: ClassName=LCD_Board Member=Component C? Cборка 4 шт
+Added Member To Class: ClassName=LCD_Board Member=Component C? Cборка 4 шт
+Added Member To Class: ClassName=LCD_Board Member=Component C? 0805
+Added Member To Class: ClassName=Power Member=Component C? 0805
+Added Member To Class: ClassName=Power Member=Component C? TAN_A
+Added Member To Class: ClassName=Power Member=Component C? 1206
+Added Member To Class: ClassName=Power Member=Component C? K50-35
+Added Member To Class: ClassName=Power Member=Component C? 0805
+Added Member To Class: ClassName=Power Member=Component C? 0805
+Added Member To Class: ClassName=Power Member=Component C? 0805
+Added Member To Class: ClassName=Power Member=Component C? TAN_A
+Added Member To Class: ClassName=Power Member=Component C? TAN_A
+Added Member To Class: ClassName=Main1 Member=Component C? 0805
+Added Member To Class: ClassName=Main1 Member=Component C? 1206
+Added Member To Class: ClassName=Main1 Member=Component C? 0805
+Added Member To Class: ClassName=Main1 Member=Component C? 0805
+Added Member To Class: ClassName=Main1 Member=Component C? TAN_A
+Added Member To Class: ClassName=Main1 Member=Component C? 0805
+Added Member To Class: ClassName=Main1 Member=Component C? 0805
+Added Member To Class: ClassName=Main1 Member=Component C? 0805
+Added Member To Class: ClassName=Main1 Member=Component C? 0805
+Added Member To Class: ClassName=Main1 Member=Component C? 0805
+Added Member To Class: ClassName=Main1 Member=Component C? 0805
+Added Member To Class: ClassName=Main1 Member=Component C? 0805
+Added Member To Class: ClassName=Main1 Member=Component C? 0805
+Added Member To Class: ClassName=Main1 Member=Component C? 0805
+Added Member To Class: ClassName=Out_Interface2 Member=Component C? 0805
+Added Member To Class: ClassName=Out_Interface2 Member=Component C? 0805
+Added Member To Class: ClassName=Out_Interface2 Member=Component C? TAN_B
+Added Member To Class: ClassName=Out_Interface2 Member=Component C? 0805
+Added Member To Class: ClassName=Out_Interface2 Member=Component C? 0805
+Added Member To Class: ClassName=Out_Interface2 Member=Component C? 0805
+Added Member To Class: ClassName=Out_Interface2 Member=Component C? 0805
+Added Member To Class: ClassName=Out_Interface2 Member=Component C? 0805
+Added Member To Class: ClassName=Out_Interface2 Member=Component C? 0805
+Added Member To Class: ClassName=Out_Interface2 Member=Component C? 0805
+Added Member To Class: ClassName=Out_Interface2 Member=Component C? TAN_B
+Added Member To Class: ClassName=Out_Interface2 Member=Component C? 0805
+Added Member To Class: ClassName=Out_Interface2 Member=Component C? 0805
+Added Member To Class: ClassName=Out_Interface2 Member=Component C? 0805
+Added Member To Class: ClassName=Out_Interface2 Member=Component C? 0805
+Added Member To Class: ClassName=Out_Interface2 Member=Component C? 0805
+Added Member To Class: ClassName=Out_Interface2 Member=Component C? 0805
+Added Member To Class: ClassName=Out_Interface2 Member=Component C? 0805
+Added Member To Class: ClassName=Out_Interface2 Member=Component C? 0805
+Added Member To Class: ClassName=Out_Interface2 Member=Component C? 0805
+Added Member To Class: ClassName=Out_Interface2 Member=Component C? 0805
+Added Member To Class: ClassName=Out_Interface2 Member=Component DA? ISO1050DW
+Added Member To Class: ClassName=Main1 Member=Component DD1 DD_STM32F407VGT6
+Added Member To Class: ClassName=Out_Interface2 Member=Component DD? 74HC1G14GV
+Added Member To Class: ClassName=Out_Interface2 Member=Component DD? ST3485EBDR
+Added Member To Class: ClassName=Out_Interface2 Member=Component DD? SCM3721ASA
+Added Member To Class: ClassName=Power Member=Component G? WRB2405S
+Added Member To Class: ClassName=Out_Interface2 Member=Component G? AM1S-Z
+Added Member To Class: ClassName=Out_Interface2 Member=Component G? AM1S-Z
+Added Member To Class: ClassName=LCD_Board Member=Component L? PBY201209T-601Y-N
+Added Member To Class: ClassName=Power Member=Component L? PBY201209T-601Y-N
+Added Member To Class: ClassName=Power Member=Component L? B82790
+Added Member To Class: ClassName=Power Member=Component L? PBY201209T-601Y-N
+Added Member To Class: ClassName=Out_Interface2 Member=Component L? PBY201209T-601Y-N
+Added Member To Class: ClassName=Out_Interface2 Member=Component L? SRN3015-100M
+Added Member To Class: ClassName=Out_Interface2 Member=Component L? SRN3015
+Added Member To Class: ClassName=Ethernet Member=Component R? сборка 4шт
+Added Member To Class: ClassName=Ethernet Member=Component R? 0805
+Added Member To Class: ClassName=Ethernet Member=Component R? 0805
+Added Member To Class: ClassName=Ethernet Member=Component R? 0805
+Added Member To Class: ClassName=Ethernet Member=Component R? сборка 4шт
+Added Member To Class: ClassName=Ethernet Member=Component R? 0805
+Added Member To Class: ClassName=Ethernet Member=Component R? сборка 4шт
+Added Member To Class: ClassName=Ethernet Member=Component R? 0805
+Added Member To Class: ClassName=Ethernet Member=Component R? 0805
+Added Member To Class: ClassName=Ethernet Member=Component R? 0805
+Added Member To Class: ClassName=Ethernet Member=Component R? 0805
+Added Member To Class: ClassName=Ethernet Member=Component R? 0805
+Added Member To Class: ClassName=Ethernet Member=Component R? 0805
+Added Member To Class: ClassName=Ethernet Member=Component R? 0805
+Added Member To Class: ClassName=Ethernet Member=Component R? сборка 4шт
+Added Member To Class: ClassName=Ethernet Member=Component R? сборка 4шт
+Added Member To Class: ClassName=Ethernet Member=Component R? сборка 4шт
+Added Member To Class: ClassName=Ethernet Member=Component R? сборка 4шт
+Added Member To Class: ClassName=Ethernet Member=Component R? сборка 4шт
+Added Member To Class: ClassName=Ethernet Member=Component R? сборка 4шт
+Added Member To Class: ClassName=Ethernet Member=Component R? сборка 4шт
+Added Member To Class: ClassName=Ethernet Member=Component R? сборка 4шт
+Added Member To Class: ClassName=Ethernet Member=Component R? сборка 4шт
+Added Member To Class: ClassName=LCD_Board Member=Component R? сборка 4шт
+Added Member To Class: ClassName=LCD_Board Member=Component R? 0805
+Added Member To Class: ClassName=LCD_Board Member=Component R? сборка 4шт
+Added Member To Class: ClassName=LCD_Board Member=Component R? сборка 4шт
+Added Member To Class: ClassName=LCD_Board Member=Component R? сборка 4шт
+Added Member To Class: ClassName=Power Member=Component R? 0805
+Added Member To Class: ClassName=Main1 Member=Component R? сборка 4шт
+Added Member To Class: ClassName=Main1 Member=Component R? сборка 4шт
+Added Member To Class: ClassName=Main1 Member=Component R? 0805
+Added Member To Class: ClassName=Main1 Member=Component R? 0805
+Added Member To Class: ClassName=Main1 Member=Component R? сборка 4шт
+Added Member To Class: ClassName=Main1 Member=Component R? 0805
+Added Member To Class: ClassName=Main1 Member=Component R? 0805
+Added Member To Class: ClassName=Main1 Member=Component R? сборка 4шт
+Added Member To Class: ClassName=Main1 Member=Component R? 0805
+Added Member To Class: ClassName=Main1 Member=Component R? 0805
+Added Member To Class: ClassName=Main1 Member=Component R? сборка 4шт
+Added Member To Class: ClassName=Main1 Member=Component R? сборка 4шт
+Added Member To Class: ClassName=Main1 Member=Component R? сборка 4шт
+Added Member To Class: ClassName=Main1 Member=Component R? сборка 4шт
+Added Member To Class: ClassName=Out_Interface2 Member=Component R? сборка 4шт
+Added Member To Class: ClassName=Out_Interface2 Member=Component R? сборка 4шт
+Added Member To Class: ClassName=Out_Interface2 Member=Component R? сборка 4шт
+Added Member To Class: ClassName=Out_Interface2 Member=Component R? 1210
+Added Member To Class: ClassName=Out_Interface2 Member=Component R? 2512
+Added Member To Class: ClassName=Out_Interface2 Member=Component R? 0805
+Added Member To Class: ClassName=Out_Interface2 Member=Component R? 1210
+Added Member To Class: ClassName=Out_Interface2 Member=Component R? 0805
+Added Member To Class: ClassName=Out_Interface2 Member=Component R? сборка 4шт
+Added Member To Class: ClassName=Out_Interface2 Member=Component R? сборка 4шт
+Added Member To Class: ClassName=Out_Interface2 Member=Component R? 1206
+Added Member To Class: ClassName=Out_Interface2 Member=Component R? 0805
+Added Member To Class: ClassName=Out_Interface2 Member=Component R? 1206
+Added Member To Class: ClassName=Out_Interface2 Member=Component R? сборка 4шт
+Added Member To Class: ClassName=Out_Interface2 Member=Component R? сборка 4шт
+Added Member To Class: ClassName=Out_Interface2 Member=Component R? сборка 4шт
+Added Member To Class: ClassName=Out_Interface2 Member=Component R? сборка 4шт
+Added Member To Class: ClassName=Main1 Member=Component SB? SB_6x6_SMD
+Added Member To Class: ClassName=LCD_Board Member=Component VD? сборка 5шт
+Added Member To Class: ClassName=LCD_Board Member=Component VD? сборка 5шт
+Added Member To Class: ClassName=LCD_Board Member=Component VD? сборка 5шт
+Added Member To Class: ClassName=LCD_Board Member=Component VD? сборка 5шт
+Added Member To Class: ClassName=LCD_Board Member=Component VD? сборка 5шт
+Added Member To Class: ClassName=Power Member=Component VD? VD_Led_0805
+Added Member To Class: ClassName=Power Member=Component VD? VD_SMA
+Added Member To Class: ClassName=Power Member=Component VD? VD_SH_SMA
+Added Member To Class: ClassName=Power Member=Component VD? STPS3150U
+Added Member To Class: ClassName=Power Member=Component VD? SM15T30A
+Added Member To Class: ClassName=Main1 Member=Component VD? ESD
+Added Member To Class: ClassName=Main1 Member=Component VD? ESD
+Added Member To Class: ClassName=Main1 Member=Component VD? VD_SH_SMA
+Added Member To Class: ClassName=Main1 Member=Component VD? VD_SH_SMA
+Added Member To Class: ClassName=Main1 Member=Component VD? VD_Led_0805
+Added Member To Class: ClassName=Main1 Member=Component VD? VD_BAT54C
+Added Member To Class: ClassName=Main1 Member=Component VD? VD_BAT54S
+Added Member To Class: ClassName=Main1 Member=Component VD? VD_BAT54S
+Added Member To Class: ClassName=Out_Interface2 Member=Component VD? ESDA25W
+Added Member To Class: ClassName=Out_Interface2 Member=Component VD? SMBJ5.0A
+Added Member To Class: ClassName=Out_Interface2 Member=Component VD? VD_SH_SMA
+Added Member To Class: ClassName=Out_Interface2 Member=Component VD? NUP2105L
+Added Member To Class: ClassName=Out_Interface2 Member=Component VD? SMBJ5.0A
+Added Member To Class: ClassName=Out_Interface2 Member=Component VD? VD_SMA
+Added Member To Class: ClassName=Out_Interface2 Member=Component VD? NUP2105L
+Added Member To Class: ClassName=Main1 Member=Component VT? BC847B
+Added Member To Class: ClassName=Main1 Member=Component XP? XP_5x2_V
+Added Member To Class: ClassName=Out_Interface2 Member=Component XS? XS_3_pin_3.8mm
+Added Member To Class: ClassName=Out_Interface2 Member=Component XS? XS_3_pin_3.8mm
+Added Member To Class: ClassName=Out_Interface2 Member=Component XS? XS_7x2_pin
+Added Room: Name=Ethernet
+Added Room: Name=LCD_Board
+Added Room: Name=Main1
+Added Room: Name=Out_Interface2
+Added Room: Name=Power
