@@ -1,0 +1,3 @@
+Change Component Library : Designator=DD5 Old Library=Privod_A_K.IntLib New Library=privod.SchLib
+Change component parameters: Designator = "DD5"; Footprint = "LQFP_48_custom"; UniqueID = "\CMISEPUF"
+Change component parameters. Clean all parameters for all variants
