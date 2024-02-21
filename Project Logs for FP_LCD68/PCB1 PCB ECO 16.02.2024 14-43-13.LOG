@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=FP_LED1 Pin=DD1-15
+Removed Pin From Net: NetName=FP_LED2 Pin=DD1-16
+Removed Pin From Net: NetName=FP_LED3 Pin=DD1-17
+Removed Pin From Net: NetName=FP_LED4 Pin=DD1-18
+Removed Pin From Net: NetName=FP_LED8 Pin=DD1-59
+Removed Pin From Net: NetName=FP_LED7 Pin=DD1-60
+Added Pin To Net: NetName=FP_LED3 Pin=DD1-59
+Added Pin To Net: NetName=FP_LED4 Pin=DD1-60
+Added Pin To Net: NetName=FP_LED2 Pin=DD1-63
+Added Pin To Net: NetName=FP_LED1 Pin=DD1-64
+Added Room: Name=Store2

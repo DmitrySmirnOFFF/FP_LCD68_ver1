@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=ETH_RST Pin=R31-4
+Removed Pin From Net: NetName=+3.3V_D Pin=R31-5
+Added Component: Designator=R57(RES_0805_(2x1.2x0.45)_0.125Вт)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Идентификатор"; Value = "RC0805JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "RC0805JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "10 k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечания"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Component: Designator=WG240128B(WG240128B)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Идентификатор"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечания"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ETH_RST Pin=R57-1
+Added Pin To Net: NetName=+3.3V_D Pin=R57-2
+Added Member To Class: ClassName=Ethernet Member=Component R57 0805
+Added Member To Class: ClassName=Main1 Member=Component WG240128B WG240128B-TFH-VZ
