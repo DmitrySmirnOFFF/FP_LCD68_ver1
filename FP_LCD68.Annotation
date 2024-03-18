@@ -1,0 +1,19 @@
+[DesignatorManager]
+
+[SheetNumberManager]
+SheetNumberOrder=Display Order
+SheetNumberMethod=Increasing
+DocumentName0=Out_Interface2.SchDoc
+UniqueIDPath0=
+SheetNumber0=1
+DocumentName1=Power_5-5V.SchDoc
+UniqueIDPath1=\EVZJERVR
+SheetNumber1=2
+DocumentName2=Power_5-5V.SchDoc
+UniqueIDPath2=\PJJSMFCD
+SheetNumber2=3
+DocumentName3=Power_5-5V.SchDoc
+UniqueIDPath3=\DSIPNWMV
+SheetNumber3=4
+
+

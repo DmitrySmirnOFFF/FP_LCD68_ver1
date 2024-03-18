@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=FP_SW3 Pin=VD15-3
+Removed Pin From Net: NetName=FP_SW5 Pin=VD15-4
+Removed Pin From Net: NetName=FP_SW2 Pin=VD15-5
+Removed Pin From Net: NetName=FP_SW4 Pin=VD15-6
+Added Pin To Net: NetName=FP_SW5 Pin=VD15-3
+Added Pin To Net: NetName=FP_SW4 Pin=VD15-4
+Added Pin To Net: NetName=FP_SW3 Pin=VD15-5
+Added Pin To Net: NetName=FP_SW2 Pin=VD15-6

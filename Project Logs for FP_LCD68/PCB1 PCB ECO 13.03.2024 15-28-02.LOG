@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=NRF_TxEN Pin=DD1-25
+Removed Pin From Net: NetName=PWM_BUZZ Pin=DD1-47
+Added Pin To Net: NetName=NRF_TxEN Pin=DD1-15
+Added Pin To Net: NetName=PWM_BUZZ Pin=DD1-25

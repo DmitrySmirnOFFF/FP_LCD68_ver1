@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=NetDD6_7 Pin=R50-1
+Removed Pin From Net: NetName=NetDD6_6 Pin=R52-1
+Removed Pin From Net: NetName=Store_SCL Pin=R52-2
+Removed Pin From Net: NetName=Store_E2 Pin=R53-1
+Removed Pin From Net: NetName=NetDD6_3 Pin=R53-2
+Removed Pin From Net: NetName=NetDD6_5 Pin=R54-1
+Removed Pin From Net: NetName=Store_SDA Pin=R54-2
+Removed Member From Class: ClassName=Store2 Member=R52
+Removed Member From Class: ClassName=Store2 Member=R53
+Removed Member From Class: ClassName=Store2 Member=R54
+Change Component Footprint: Designator=R50 Old Footprint=RES_0805_(2x1.2x0.45)_0.125Вт New Footprint=YC-164
+Change Component Comment : Designator=R50 Old Comment=0805 New Comment=сборка 4шт
+Change component parameters: Designator = "R50"; Footprint = "YC-164"; UniqueID = "\VLNWMSVW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Идентификатор"; Value = "YC164-JR-071KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Корпус"; Value = "1206U"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Наименование"; Value = "YC164-JR-071KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Номинал"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Примечания"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Тип"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetDD6_3 Pin=R50-1
+Added Pin To Net: NetName=Store_SDA Pin=R50-3
+Added Pin To Net: NetName=Store_SCL Pin=R50-4
+Added Pin To Net: NetName=NetDD6_6 Pin=R50-5
+Added Pin To Net: NetName=NetDD6_5 Pin=R50-6
+Added Pin To Net: NetName=NetDD6_7 Pin=R50-7
+Added Pin To Net: NetName=Store_E2 Pin=R50-8
+Added Room: Name=Store2

@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=CAN1H_out Pin=R21-1
+Removed Pin From Net: NetName=CAN1L_out Pin=R21-2
+Removed Pin From Net: NetName=CAN2H_out Pin=R22-1
+Removed Pin From Net: NetName=CAN2L_out Pin=R22-2
+Change Component Footprint: Designator=R21 Old Footprint=RES_1206_(3.2x1.6x0.55)_0.25Вт New Footprint=RES_2512_(6.3x3.1x0.6)_2Вт
+Change Component Footprint: Designator=R22 Old Footprint=RES_1206_(3.2x1.6x0.55)_0.25Вт New Footprint=RES_2512_(6.3x3.1x0.6)_2Вт
+Change Component Comment : Designator=R21 Old Comment=1206 New Comment=2512
+Change Component Comment : Designator=R22 Old Comment=1206 New Comment=2512
+Change component parameters: Designator = "R21"; Footprint = "RES_2512_(6.3x3.1x0.6)_2Вт"; UniqueID = "\PCZCEURU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Идентификатор"; Value = "RC2512JK-07120RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Корпус"; Value = "2512"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Наименование"; Value = "RC2512JK-07120RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Номинал"; Value = "120"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Примечания"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Тип"; Value = "Резистор"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R22"; Footprint = "RES_2512_(6.3x3.1x0.6)_2Вт"; UniqueID = "\WVWHZFVD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Идентификатор"; Value = "RC2512JK-07120RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Корпус"; Value = "2512"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Наименование"; Value = "RC2512JK-07120RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Номинал"; Value = "120"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Примечания"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Тип"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CAN1L_out Pin=R21-1
+Added Pin To Net: NetName=CAN1H_out Pin=R21-2
+Added Pin To Net: NetName=CAN2L_out Pin=R22-1
+Added Pin To Net: NetName=CAN2H_out Pin=R22-2
+Added Member To Class: ClassName=Main1 Member=Component WG240128B WG240128B-TFH-VZ

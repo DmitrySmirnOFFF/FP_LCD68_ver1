@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=FP_SW3 Pin=C16-4
+Removed Pin From Net: NetName=FP_SW3 Pin=VD15-6
+Added Pin To Net: NetName=FP_SW4 Pin=C16-4
+Added Pin To Net: NetName=FP_SW4 Pin=VD15-6
+Added Member To Class: ClassName=Out_Interface2 Member=Component XS3 XS_3_pin_3.8mm
+Added Member To Class: ClassName=Out_Interface2 Member=Component XS4 XS_3_pin_3.8mm

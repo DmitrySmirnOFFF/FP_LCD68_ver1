@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=DD2 Old Footprint=SOP-8 New Footprint=SOP-8M
+Change Component Library : Designator=DD2 Old Library=Privod_A_K.IntLib New Library=privod.SchLib
+Change component parameters: Designator = "DD2"; Footprint = "SOP-8M"; UniqueID = "\WWNTHMBI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Идентификатор"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Корпус"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Наименование"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Номинал"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Примечания"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Тип"; Value = "SCM3721ASA"; VariantName = "[No Variations]"

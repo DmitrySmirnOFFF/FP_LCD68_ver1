@@ -1,0 +1,126 @@
+Removed Pin From Net: NetName=D_GND Pin=C23-1
+Removed Pin From Net: NetName=NetC23_2 Pin=C23-2
+Removed Pin From Net: NetName=Gnd_CAN1 Pin=C24-1
+Removed Pin From Net: NetName=+5V_CAN1 Pin=C24-2
+Removed Pin From Net: NetName=D_GND Pin=C26-1
+Removed Pin From Net: NetName=NetC26_2 Pin=C26-2
+Removed Pin From Net: NetName=Gnd_CAN2 Pin=C27-1
+Removed Pin From Net: NetName=+5V_CAN2 Pin=C27-2
+Removed Pin From Net: NetName=GND_RS Pin=C36-1
+Removed Pin From Net: NetName=+5V_RS Pin=C36-2
+Removed Pin From Net: NetName=D_GND Pin=C39-1
+Removed Pin From Net: NetName=NetC39_2 Pin=C39-2
+Removed Member From Class: ClassName=Out_Interface2 Member=C23
+Removed Member From Class: ClassName=Out_Interface2 Member=C26
+Removed Member From Class: ClassName=Out_Interface2 Member=C36
+Change Component Footprint: Designator=C24 Old Footprint=CAP_0805_(2x1.25x1.3) New Footprint=CAP_TAN_A
+Change Component Footprint: Designator=C27 Old Footprint=CAP_0805_(2x1.25x1.3) New Footprint=CAP_TAN_A
+Change Component Footprint: Designator=C39 Old Footprint=CAP_0805_(2x1.25x1.3) New Footprint=CAP_TAN_A
+Change Component Footprint: Designator=VD18 Old Footprint=VD_SMB_(Do-214AA) New Footprint=VD_SMA_(Do-214AC)
+Change Component Footprint: Designator=VD19 Old Footprint=VD_SMB_(Do-214AA) New Footprint=VD_SMA_(Do-214AC)
+Change Component Comment : Designator=C24 Old Comment=0805 New Comment=TAN_A
+Change Component Comment : Designator=C27 Old Comment=0805 New Comment=TAN_A
+Change Component Comment : Designator=C39 Old Comment=0805 New Comment=TAN_A
+Change Component Comment : Designator=VD18 Old Comment=SMBJ5.0A New Comment=VD_SMA
+Change Component Comment : Designator=VD19 Old Comment=SMBJ5.0A New Comment=VD_SMA
+Change Component Comment : Designator=L4 Old Comment=SRN3015-100M New Comment=SRN3015
+Change Component Comment : Designator=L5 Old Comment=SRN3015-100M New Comment=SRN3015
+Change component parameters: Designator = "C28"; Footprint = "CAP_TAN_A"; UniqueID = "\BQAFAPZM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Идентификатор"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Корпус"; Value = "A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Наименование"; Value = "CA45-A020K475T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Номинал"; Value = "4.7 uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Примечания"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Тип"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C29"; Footprint = "CAP_TAN_A"; UniqueID = "\FADEMAJX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Идентификатор"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Корпус"; Value = "A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Наименование"; Value = "CA45-A020K475T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Номинал"; Value = "4.7 uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Примечания"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Тип"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L4"; Footprint = "L_SRN3015"; UniqueID = "\SBNFWZNY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Идентификатор"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Корпус"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Наименование"; Value = "NLCV32T-100K-EF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Номинал"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Примечания"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Тип"; Value = "Индуктивность"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L5"; Footprint = "L_SRN3015"; UniqueID = "\QCDYMOKV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Идентификатор"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Корпус"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Наименование"; Value = "NLCV32T-100K-EF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Номинал"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Примечания"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Тип"; Value = "Индуктивность"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C24"; Footprint = "CAP_TAN_A"; UniqueID = "\RGHWSEQK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Идентификатор"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Корпус"; Value = "A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Наименование"; Value = "CA45-A020K106T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Номинал"; Value = "10 uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Примечания"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Тип"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C27"; Footprint = "CAP_TAN_A"; UniqueID = "\NLRBAXOV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Идентификатор"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Корпус"; Value = "A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Наименование"; Value = "CA45-A020K106T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Номинал"; Value = "10 uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Примечания"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Тип"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C39"; Footprint = "CAP_TAN_A"; UniqueID = "\OGGRWCUO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Идентификатор"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Корпус"; Value = "A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Наименование"; Value = "CA45-A020K475T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Номинал"; Value = "4.7 uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Примечания"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Тип"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VD18"; Footprint = "VD_SMA_(Do-214AC)"; UniqueID = "\NZHFFHSF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Идентификатор"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Корпус"; Value = "SMA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Наименование"; Value = "SMAJ5.0A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Напряжение"; Value = "5В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Номинал"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Примечания"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Тип"; Value = "Диод"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VD19"; Footprint = "VD_SMA_(Do-214AC)"; UniqueID = "\QKFDPXJI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Идентификатор"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Корпус"; Value = "SMA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Наименование"; Value = "SMAJ5.0A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Напряжение"; Value = "5В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Номинал"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Примечания"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Тип"; Value = "Диод"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V_CAN1 Pin=C24-1
+Added Pin To Net: NetName=Gnd_CAN1 Pin=C24-2
+Added Pin To Net: NetName=+5V_CAN2 Pin=C27-1
+Added Pin To Net: NetName=Gnd_CAN2 Pin=C27-2
+Added Pin To Net: NetName=NetC39_2 Pin=C39-1
+Added Pin To Net: NetName=D_GND Pin=C39-2
+Change Net Name : Old Net Name=NetC23_2 New Net Name=NetC28_1
+Change Net Name : Old Net Name=NetC26_2 New Net Name=NetC29_1
+Change Net Name : Old Net Name=NetC39_2 New Net Name=NetC39_1

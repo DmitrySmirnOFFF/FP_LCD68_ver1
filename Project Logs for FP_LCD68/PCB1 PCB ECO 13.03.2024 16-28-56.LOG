@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=D_GND Pin=VD2-2
+Removed Pin From Net: NetName=SD_SW Pin=VD2-3
+Removed Pin From Net: NetName=D_GND Pin=VD6-1
+Removed Pin From Net: NetName=D_GND Pin=VD6-2
+Removed Pin From Net: NetName=+5V_D Pin=VD6-3
+Removed Pin From Net: NetName=D_GND Pin=VD30-2
+Removed Pin From Net: NetName=NRST_MC Pin=VD30-3
+Added Pin To Net: NetName=SD_SW Pin=VD2-2
+Added Pin To Net: NetName=D_GND Pin=VD2-3
+Added Pin To Net: NetName=+3.3V_D Pin=VD6-1
+Added Pin To Net: NetName=+5V_D Pin=VD6-2
+Added Pin To Net: NetName=D_GND Pin=VD6-3
+Added Pin To Net: NetName=NRST_MC Pin=VD30-2
+Added Pin To Net: NetName=D_GND Pin=VD30-3
