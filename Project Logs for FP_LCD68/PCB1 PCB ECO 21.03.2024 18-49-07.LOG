@@ -1,0 +1,270 @@
+Removed Pin From Net: NetName=NRF_TxEN Pin=R24-1
+Removed Pin From Net: NetName=NetR24_8 Pin=R24-8
+Removed Pin From Net: NetName=NRF_AM Pin=R25-1
+Removed Pin From Net: NetName=NRF_DR Pin=R25-2
+Removed Pin From Net: NetName=NRF_MISO Pin=R25-3
+Removed Pin From Net: NetName=NRF_MOSI Pin=R25-4
+Removed Pin From Net: NetName=NetR25_5 Pin=R25-5
+Removed Pin From Net: NetName=NetR25_6 Pin=R25-6
+Removed Pin From Net: NetName=NetR25_7 Pin=R25-7
+Removed Pin From Net: NetName=NetR25_8 Pin=R25-8
+Removed Pin From Net: NetName=NetDD2_41 Pin=R26-1
+Removed Pin From Net: NetName=NetDD2_40 Pin=R26-2
+Removed Pin From Net: NetName=NRF_SCK Pin=R26-3
+Removed Pin From Net: NetName=NRF_CSN(NSS) Pin=R26-4
+Removed Pin From Net: NetName=NetR26_6 Pin=R26-6
+Removed Pin From Net: NetName=D_GND Pin=R26-7
+Removed Pin From Net: NetName=D_GND Pin=R26-8
+Removed Pin From Net: NetName=PMODE0 Pin=R28-1
+Removed Pin From Net: NetName=+3.3V_D Pin=R29-1
+Removed Pin From Net: NetName=PMODE0 Pin=R29-8
+Removed Pin From Net: NetName=NetR30_1 Pin=R30-1
+Removed Pin From Net: NetName=NetR30_2 Pin=R30-2
+Removed Pin From Net: NetName=NetDD2_39 Pin=R30-3
+Removed Pin From Net: NetName=D_GND Pin=R30-6
+Removed Pin From Net: NetName=NetDA3_I2_2 Pin=R30-7
+Removed Pin From Net: NetName=NetDA3_I1_2 Pin=R30-8
+Removed Pin From Net: NetName=NetR48_O1_1 Pin=R48_O1-1
+Removed Pin From Net: NetName=NetR48_O2_1 Pin=R48_O2-1
+Removed Pin From Net: NetName=D_IN1 Pin=R49-1
+Removed Pin From Net: NetName=D_IN2 Pin=R49-2
+Removed Pin From Net: NetName=NetDA3_I2_4 Pin=R49-7
+Removed Pin From Net: NetName=NetDA3_I1_4 Pin=R49-8
+Removed Pin From Net: NetName=SD_CLK Pin=R50-1
+Removed Pin From Net: NetName=SD_CMD/SDI Pin=R50-2
+Removed Pin From Net: NetName=SD_DAT3/CS Pin=R50-3
+Removed Pin From Net: NetName=+3.3V_D Pin=R50-6
+Removed Pin From Net: NetName=+3.3V_D Pin=R50-7
+Removed Pin From Net: NetName=+3.3V_D Pin=R50-8
+Removed Pin From Net: NetName=SD_DAT0/SDO Pin=R51-1
+Removed Pin From Net: NetName=SD_DAT1 Pin=R51-2
+Removed Pin From Net: NetName=NetR51_3 Pin=R51-3
+Removed Pin From Net: NetName=+3.3V_D Pin=R51-6
+Removed Pin From Net: NetName=+3.3V_D Pin=R51-7
+Removed Pin From Net: NetName=+3.3V_D Pin=R51-8
+Removed Pin From Net: NetName=NetR48_O1_1 Pin=VT2_O1-1
+Removed Pin From Net: NetName=NetR48_O2_1 Pin=VT2_O2-1
+Removed Pin From Net: NetName=NetR25_6 Pin=XS5-9
+Removed Pin From Net: NetName=NetR25_5 Pin=XS5-10
+Removed Pin From Net: NetName=NetR26_6 Pin=XS5-11
+Removed Pin From Net: NetName=NetR26_5 Pin=XS5-12
+Removed Pin From Net: NetName=NetR30_1 Pin=XS8-1
+Removed Pin From Net: NetName=NetR30_2 Pin=XS8-2
+Removed Pin From Net: NetName=NetR50_1 Pin=XS9-1
+Removed Pin From Net: NetName=NetR50_2 Pin=XS9-2
+Removed Member From Class: ClassName=U_Ethernet Member=R26
+Removed Member From Class: ClassName=U_Out_Interface2 Member=R26
+Removed Member From Class: ClassName=U_DI_DO Member=R30
+Removed Member From Class: ClassName=U_Ethernet Member=R30
+Removed Member From Class: ClassName=U_DI_DO Member=R50
+Removed Member From Class: ClassName=U_DI_DO Member=R51
+Change Component Footprint: Designator=R30 Old Footprint=YC-164 New Footprint=RES_0805_(2x1.2x0.45)_0.125Вт
+Change Component Comment : Designator=R30 Old Comment=сборка 4шт New Comment=0805
+Change Component Designator: OldDesignator=C2 NewDesignator=C3
+Change Component Designator: OldDesignator=C3 NewDesignator=C2
+Change Component Designator: OldDesignator=C47 NewDesignator=C46
+Change Component Designator: OldDesignator=C48 NewDesignator=C47
+Change Component Designator: OldDesignator=C49 NewDesignator=C48
+Change Component Designator: OldDesignator=C50 NewDesignator=C49
+Change Component Designator: OldDesignator=C51 NewDesignator=C50
+Change Component Designator: OldDesignator=C52 NewDesignator=C51
+Change Component Designator: OldDesignator=C53 NewDesignator=C52
+Change Component Designator: OldDesignator=C54 NewDesignator=C53
+Change Component Designator: OldDesignator=C55 NewDesignator=C54
+Change Component Designator: OldDesignator=C56 NewDesignator=C55
+Change Component Designator: OldDesignator=C57 NewDesignator=C56
+Change Component Designator: OldDesignator=C58 NewDesignator=C57
+Change Component Designator: OldDesignator=C59 NewDesignator=C58
+Change Component Designator: OldDesignator=C60 NewDesignator=C59
+Change Component Designator: OldDesignator=C61 NewDesignator=C60
+Change Component Designator: OldDesignator=C62 NewDesignator=C61
+Change Component Designator: OldDesignator=C63 NewDesignator=C62
+Change Component Designator: OldDesignator=C64 NewDesignator=C63
+Change Component Designator: OldDesignator=C65 NewDesignator=C64
+Change Component Designator: OldDesignator=R24 NewDesignator=R25
+Change Component Designator: OldDesignator=R27 NewDesignator=R32
+Change Component Designator: OldDesignator=R28 NewDesignator=R27
+Change Component Designator: OldDesignator=R30 NewDesignator=R54
+Change Component Designator: OldDesignator=R31 NewDesignator=R33
+Change Component Designator: OldDesignator=R32 NewDesignator=R34
+Change Component Designator: OldDesignator=R33 NewDesignator=R35
+Change Component Designator: OldDesignator=R34 NewDesignator=R36
+Change Component Designator: OldDesignator=R35 NewDesignator=R37
+Change Component Designator: OldDesignator=R36 NewDesignator=R38
+Change Component Designator: OldDesignator=R37 NewDesignator=R39
+Change Component Designator: OldDesignator=R38 NewDesignator=R40
+Change Component Designator: OldDesignator=R39 NewDesignator=R41
+Change Component Designator: OldDesignator=R40 NewDesignator=R42
+Change Component Designator: OldDesignator=R41 NewDesignator=R43
+Change Component Designator: OldDesignator=R42 NewDesignator=R44
+Change Component Designator: OldDesignator=R43_B1 NewDesignator=R45_B1
+Change Component Designator: OldDesignator=R43_B2 NewDesignator=R45_B2
+Change Component Designator: OldDesignator=R44_B1 NewDesignator=R46_B1
+Change Component Designator: OldDesignator=R44_B2 NewDesignator=R46_B2
+Change Component Designator: OldDesignator=R45_B1 NewDesignator=R47_B1
+Change Component Designator: OldDesignator=R45_B2 NewDesignator=R47_B2
+Change Component Designator: OldDesignator=R46_B1 NewDesignator=R48_B1
+Change Component Designator: OldDesignator=R46_B2 NewDesignator=R48_B2
+Change Component Designator: OldDesignator=R47_I1 NewDesignator=R49_I1
+Change Component Designator: OldDesignator=R47_I2 NewDesignator=R49_I2
+Change Component Designator: OldDesignator=R47_I3 NewDesignator=R49_I3
+Change Component Designator: OldDesignator=R48_O1 NewDesignator=R53_O1
+Change Component Designator: OldDesignator=R48_O2 NewDesignator=R53_O2
+Change Component Designator: OldDesignator=R48_O3 NewDesignator=R53_O3
+Change Component Designator: OldDesignator=R49 NewDesignator=R55
+Change Component Designator: OldDesignator=R50 NewDesignator=R56
+Change Component Designator: OldDesignator=R51 NewDesignator=R57
+Change Component Designator: OldDesignator=R53 NewDesignator=R58
+Change Component Designator: OldDesignator=R54 NewDesignator=R59
+Change Component Designator: OldDesignator=R55 NewDesignator=R60
+Change Component Designator: OldDesignator=R56 NewDesignator=R61
+Change Component Designator: OldDesignator=R57 NewDesignator=R62
+Change Component Designator: OldDesignator=R58 NewDesignator=R63
+Change Component Designator: OldDesignator=R61 NewDesignator=R64
+Change Component Designator: OldDesignator=R62 NewDesignator=R65
+Change component parameters: Designator = "R26"; Footprint = "YC-164"; UniqueID = "\JMECZNWR\XHUGBVGF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Идентификатор"; Value = "YC164-JR-07330RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Корпус"; Value = "1206U"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Наименование"; Value = "YC164-JR-07330RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Номинал"; Value = "330"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Примечания"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Тип"; Value = "Резистор"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R54"; Footprint = "YC-164"; UniqueID = "\JMECZNWR\TGBEBOTY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Идентификатор"; Value = "YC164-JR-0751RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Корпус"; Value = "1206U"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Наименование"; Value = "YC164-JR-0751RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Номинал"; Value = "51"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Примечания"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Тип"; Value = "Резистор"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R56"; Footprint = "YC-164"; UniqueID = "\JMECZNWR\LJHTHGKK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Идентификатор"; Value = "YC164-JR-07330RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Корпус"; Value = "1206U"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Наименование"; Value = "YC164-JR-07330RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Номинал"; Value = "330"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Примечания"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Тип"; Value = "Резистор"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R30"; Footprint = "RES_0805_(2x1.2x0.45)_0.125Вт"; UniqueID = "\LGIQVVCC\PBPFDVQK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Идентификатор"; Value = "RC0805JR-0751RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Корпус"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Наименование"; Value = "RC0805JR-0751RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Номинал"; Value = "51"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Примечания"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Тип"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Component: Designator=R31(RES_0805_(2x1.2x0.45)_0.125Вт)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Идентификатор"; Value = "RC0805JR-0751RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "RC0805JR-0751RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "51"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечания"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NRF_TxEN Pin=R24-1
+Added Pin To Net: NetName=NetR24_8 Pin=R24-8
+Added Pin To Net: NetName=NRF_AM Pin=R25-1
+Added Pin To Net: NetName=NRF_DR Pin=R25-2
+Added Pin To Net: NetName=NetR25_7 Pin=R25-7
+Added Pin To Net: NetName=NetR25_8 Pin=R25-8
+Added Pin To Net: NetName=NetR50_2 Pin=R26-1
+Added Pin To Net: NetName=NetR50_1 Pin=R26-2
+Added Pin To Net: NetName=NRF_MISO Pin=R26-3
+Added Pin To Net: NetName=NRF_MOSI Pin=R26-4
+Added Pin To Net: NetName=NetR26_6 Pin=R26-6
+Added Pin To Net: NetName=NetDA3_I2_2 Pin=R26-7
+Added Pin To Net: NetName=NetDA3_I1_2 Pin=R26-8
+Added Pin To Net: NetName=+3.3V_D Pin=R27-1
+Added Pin To Net: NetName=+3.3V_D Pin=R27-2
+Added Pin To Net: NetName=PMODE1 Pin=R27-7
+Added Pin To Net: NetName=PMODE0 Pin=R27-8
+Added Pin To Net: NetName=NetDD2_41 Pin=R28-1
+Added Pin To Net: NetName=NetDD2_40 Pin=R28-2
+Added Pin To Net: NetName=NetDD2_39 Pin=R28-3
+Added Pin To Net: NetName=D_GND Pin=R28-6
+Added Pin To Net: NetName=D_GND Pin=R28-7
+Added Pin To Net: NetName=PMODE0 Pin=R29-1
+Added Pin To Net: NetName=PMODE1 Pin=R29-2
+Added Pin To Net: NetName=D_GND Pin=R29-7
+Added Pin To Net: NetName=D_GND Pin=R29-8
+Added Pin To Net: NetName=NRF_SCK Pin=R30-1
+Added Pin To Net: NetName=NetR30_2 Pin=R30-2
+Added Pin To Net: NetName=NetR25_5 Pin=R31-1
+Added Pin To Net: NetName=NRF_CSN(NSS) Pin=R31-2
+Added Pin To Net: NetName=SD_CLK Pin=R50-1
+Added Pin To Net: NetName=SD_CMD/SDI Pin=R50-2
+Added Pin To Net: NetName=SD_DAT3/CS Pin=R50-3
+Added Pin To Net: NetName=+3.3V_D Pin=R50-6
+Added Pin To Net: NetName=+3.3V_D Pin=R50-7
+Added Pin To Net: NetName=+3.3V_D Pin=R50-8
+Added Pin To Net: NetName=SD_DAT0/SDO Pin=R51-1
+Added Pin To Net: NetName=SD_DAT1 Pin=R51-2
+Added Pin To Net: NetName=NetR51_3 Pin=R51-3
+Added Pin To Net: NetName=+3.3V_D Pin=R51-6
+Added Pin To Net: NetName=+3.3V_D Pin=R51-7
+Added Pin To Net: NetName=+3.3V_D Pin=R51-8
+Added Pin To Net: NetName=NetR25_6 Pin=R53_O1-1
+Added Pin To Net: NetName=NetR30_1 Pin=R53_O2-1
+Added Pin To Net: NetName=D_IN1 Pin=R54-1
+Added Pin To Net: NetName=D_IN2 Pin=R54-2
+Added Pin To Net: NetName=NetDA3_I2_4 Pin=R54-7
+Added Pin To Net: NetName=NetDA3_I1_4 Pin=R54-8
+Added Pin To Net: NetName=NetR48_O2_1 Pin=R55-1
+Added Pin To Net: NetName=NetR48_O1_1 Pin=R55-2
+Added Pin To Net: NetName=NetKL1_O2_1 Pin=R55-7
+Added Pin To Net: NetName=NetKL1_O1_1 Pin=R55-8
+Added Pin To Net: NetName=D_O1 Pin=R56-1
+Added Pin To Net: NetName=D_O2 Pin=R56-2
+Added Pin To Net: NetName=NetR30_1 Pin=R56-7
+Added Pin To Net: NetName=NetR25_6 Pin=R56-8
+Added Pin To Net: NetName=NetR25_6 Pin=VT2_O1-1
+Added Pin To Net: NetName=NetR30_1 Pin=VT2_O2-1
+Added Pin To Net: NetName=NetR26_6 Pin=XS5-9
+Added Pin To Net: NetName=NetR26_5 Pin=XS5-10
+Added Pin To Net: NetName=NetR30_2 Pin=XS5-11
+Added Pin To Net: NetName=NetR25_5 Pin=XS5-12
+Added Pin To Net: NetName=NetR50_2 Pin=XS8-1
+Added Pin To Net: NetName=NetR50_1 Pin=XS8-2
+Added Pin To Net: NetName=NetR48_O2_1 Pin=XS9-1
+Added Pin To Net: NetName=NetR48_O1_1 Pin=XS9-2
+Change Net Name : Old Net Name=NetC47_1 New Net Name=NetC46_1
+Change Net Name : Old Net Name=NetC47_2 New Net Name=NetC46_2
+Change Net Name : Old Net Name=NetC50_1 New Net Name=NetC49_1
+Change Net Name : Old Net Name=NetC51_1 New Net Name=NetC50_1
+Change Net Name : Old Net Name=NetC51_2 New Net Name=NetC50_2
+Change Net Name : Old Net Name=NetC60_2 New Net Name=NetC59_2
+Change Net Name : Old Net Name=NetC62_2 New Net Name=NetC61_2
+Change Net Name : Old Net Name=NetR24_5 New Net Name=NetR25_5
+Change Net Name : Old Net Name=NetR24_6 New Net Name=NetR25_6
+Change Net Name : Old Net Name=NetR25_5 New Net Name=NetR31_1
+Change Net Name : Old Net Name=NetR25_6 New Net Name=NetR53_O1_1
+Change Net Name : Old Net Name=NetR30_1 New Net Name=NetR53_O2_1
+Change Net Name : Old Net Name=NetR30_3 New Net Name=NetR54_3
+Change Net Name : Old Net Name=NetR37_1 New Net Name=NetR39_1
+Change Net Name : Old Net Name=NetR40_1 New Net Name=NetR42_1
+Change Net Name : Old Net Name=NetR48_O1_1 New Net Name=NetR55_2
+Change Net Name : Old Net Name=NetR48_O2_1 New Net Name=NetR55_1
+Change Net Name : Old Net Name=NetR48_O3_1 New Net Name=NetR53_O3_1
+Change Net Name : Old Net Name=NetR50_1 New Net Name=NetR26_2
+Change Net Name : Old Net Name=NetR50_2 New Net Name=NetR26_1
+Change Net Name : Old Net Name=NetR50_3 New Net Name=NetR56_3
+Change Net Name : Old Net Name=NetR53_2 New Net Name=NetR58_2
+Change Net Name : Old Net Name=NetR54_2 New Net Name=NetR59_2
+Added Member To Class: ClassName=U_DI_DO Member=Component R26 сборка 4шт
+Added Member To Class: ClassName=U_Out_Interface2 Member=Component R30 0805
+Added Member To Class: ClassName=U_Out_Interface2 Member=Component R31 0805
+Added Member To Class: ClassName=U_Ethernet Member=Component R44 0805
+Added Member To Class: ClassName=U_DI_DO Member=Component R54 сборка 4шт
+Added Member To Class: ClassName=U_DI_DO Member=Component R56 сборка 4шт
+Added Member To Class: ClassName=U_DI_DO Member=Component R57 сборка 4шт

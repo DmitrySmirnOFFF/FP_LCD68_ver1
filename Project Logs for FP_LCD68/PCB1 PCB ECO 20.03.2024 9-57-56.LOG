@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=SD_CLK Pin=R50-1
+Removed Pin From Net: NetName=SD_CMD/SDI Pin=R50-2
+Removed Pin From Net: NetName=SD_DAT3/CS Pin=R50-3
+Removed Pin From Net: NetName=+3.3V_D Pin=R50-6
+Removed Pin From Net: NetName=+3.3V_D Pin=R50-8
+Removed Pin From Net: NetName=SD_DAT0/SDO Pin=R51-1
+Removed Pin From Net: NetName=SD_DAT1 Pin=R51-2
+Removed Pin From Net: NetName=NetR51_3 Pin=R51-3
+Removed Pin From Net: NetName=+3.3V_D Pin=R51-6
+Removed Pin From Net: NetName=+3.3V_D Pin=R51-8
+Added Pin To Net: NetName=SD_CLK Pin=R50-1
+Added Pin To Net: NetName=NetR50_2 Pin=R50-2
+Added Pin To Net: NetName=SD_CMD/SDI Pin=R50-2
+Added Pin To Net: NetName=SD_DAT3/CS Pin=R50-3
+Added Pin To Net: NetName=+3.3V_D Pin=R50-6
+Added Pin To Net: NetName=+3.3V_D Pin=R50-7
+Added Pin To Net: NetName=+3.3V_D Pin=R50-8
+Added Pin To Net: NetName=SD_DAT0/SDO Pin=R51-1
+Added Pin To Net: NetName=D_O2 Pin=R51-2
+Added Pin To Net: NetName=SD_DAT1 Pin=R51-2
+Added Pin To Net: NetName=NetR51_3 Pin=R51-3
+Added Pin To Net: NetName=+3.3V_D Pin=R51-6
+Added Pin To Net: NetName=+3.3V_D Pin=R51-7
+Added Pin To Net: NetName=+3.3V_D Pin=R51-8
+Added Class: Name=LCD
+Added Class: Name=PWR
+Added Member To Class: ClassName=U_DI_DO Member=Component R30 סבמנךא 4רע
+Added Member To Class: ClassName=U_DI_DO Member=Component R50 סבמנךא 4רע
+Added Member To Class: ClassName=U_DI_DO Member=Component R50 סבמנךא 4רע
+Added Member To Class: ClassName=U_DI_DO Member=Component R51 סבמנךא 4רע
+Added Member To Class: ClassName=U_DI_DO Member=Component R51 סבמנךא 4רע

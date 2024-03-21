@@ -1,0 +1,60 @@
+Removed Pin From Net: NetName=NetR26_1 Pin=R26-1
+Removed Pin From Net: NetName=NetR26_2 Pin=R26-2
+Removed Pin From Net: NetName=NetDA3_I2_2 Pin=R26-7
+Removed Pin From Net: NetName=NetDA3_I1_2 Pin=R26-8
+Removed Pin From Net: NetName=D_IN1 Pin=R54-1
+Removed Pin From Net: NetName=D_IN2 Pin=R54-2
+Removed Pin From Net: NetName=NetDA3_I2_4 Pin=R54-7
+Removed Pin From Net: NetName=NetDA3_I1_4 Pin=R54-8
+Removed Pin From Net: NetName=NetR55_1 Pin=R55-1
+Removed Pin From Net: NetName=NetR55_2 Pin=R55-2
+Removed Pin From Net: NetName=NetKL1_O2_1 Pin=R55-7
+Removed Pin From Net: NetName=NetKL1_O1_1 Pin=R55-8
+Removed Pin From Net: NetName=D_O1 Pin=R56-1
+Removed Pin From Net: NetName=D_O2 Pin=R56-2
+Removed Pin From Net: NetName=NetR53_O2_1 Pin=R56-7
+Removed Pin From Net: NetName=NetR53_O1_1 Pin=R56-8
+Change Component Designator: OldDesignator=R54 NewDesignator=R26
+Change Component Designator: OldDesignator=R55 NewDesignator=R54
+Change Component Designator: OldDesignator=R56 NewDesignator=R55
+Change Component Designator: OldDesignator=R57 NewDesignator=R56
+Change component parameters: Designator = "R26"; Footprint = "YC-164"; UniqueID = "\JMECZNWR\TGBEBOTY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Идентификатор"; Value = "YC164-JR-07330RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Корпус"; Value = "1206U"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Наименование"; Value = "YC164-JR-07330RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Номинал"; Value = "330"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Примечания"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Тип"; Value = "Резистор"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R55"; Footprint = "YC-164"; UniqueID = "\JMECZNWR\LJHTHGKK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Идентификатор"; Value = "YC164-JR-0751RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Корпус"; Value = "1206U"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Наименование"; Value = "YC164-JR-0751RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Номинал"; Value = "51"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Примечания"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Тип"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR26_1 Pin=R26-1
+Added Pin To Net: NetName=NetR26_2 Pin=R26-2
+Added Pin To Net: NetName=NetDA3_I2_2 Pin=R26-7
+Added Pin To Net: NetName=NetDA3_I1_2 Pin=R26-8
+Added Pin To Net: NetName=D_IN1 Pin=R54-1
+Added Pin To Net: NetName=D_IN2 Pin=R54-2
+Added Pin To Net: NetName=NetDA3_I2_4 Pin=R54-7
+Added Pin To Net: NetName=NetDA3_I1_4 Pin=R54-8
+Added Pin To Net: NetName=NetR55_1 Pin=R55-1
+Added Pin To Net: NetName=NetR55_2 Pin=R55-2
+Added Pin To Net: NetName=NetKL1_O2_1 Pin=R55-7
+Added Pin To Net: NetName=NetKL1_O1_1 Pin=R55-8
+Added Pin To Net: NetName=D_O1 Pin=R56-1
+Added Pin To Net: NetName=D_O2 Pin=R56-2
+Added Pin To Net: NetName=NetR53_O2_1 Pin=R56-7
+Added Pin To Net: NetName=NetR53_O1_1 Pin=R56-8
+Change Net Name : Old Net Name=NetR54_3 New Net Name=NetR26_3
+Change Net Name : Old Net Name=NetR56_3 New Net Name=NetR55_3
+Added Member To Class: ClassName=U_Out_Interface2 Member=Component R24 сборка 4шт
+Added Member To Class: ClassName=U_Out_Interface2 Member=Component R25 сборка 4шт

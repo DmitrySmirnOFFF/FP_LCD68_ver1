@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=+3.3V_D Pin=VD6-2
+Removed Pin From Net: NetName=D_GND Pin=VD6-3
+Change Component Designator: OldDesignator=VD2 NewDesignator=VD6
+Added Pin To Net: NetName=+3.3V_D Pin=VD2-2

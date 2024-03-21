@@ -1,0 +1,13 @@
+Added Pin To Net: NetName=D_O3 Pin=DD1-16
+Added Pin To Net: NetName=D_O2 Pin=DD1-45
+Added Pin To Net: NetName=D_O1 Pin=DD1-46
+Added Pin To Net: NetName=D_IN3 Pin=DD1-47
+Added Pin To Net: NetName=D_IN4 Pin=DD1-48
+Added Pin To Net: NetName=D_IN2 Pin=DD1-57
+Added Pin To Net: NetName=D_IN1 Pin=DD1-77
+Added Member To Class: ClassName=Main1 Member=Component VD2 VD_BAT54S
+Added Member To Class: ClassName=Main1 Member=Component VD6 VD_BAT54S
+Added Room: Name=C1
+Added Room: Name=U_DI_DO
+Added Room: Name=U_Power_24-5-3V
+Added Room: Name=U_Store
