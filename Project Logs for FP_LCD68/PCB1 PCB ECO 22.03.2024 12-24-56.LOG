@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=SD_DAT0/SDO Pin=R51-1
+Removed Pin From Net: NetName=SD_DAT1 Pin=R51-2
+Removed Pin From Net: NetName=NetR51_3 Pin=R51-3
+Removed Pin From Net: NetName=SD_SW Pin=R51-4
+Removed Pin From Net: NetName=NetR51_3 Pin=R51-5
+Removed Pin From Net: NetName=+3.3V_D Pin=R51-8
+Added Pin To Net: NetName=SD_SW Pin=R51-1
+Added Pin To Net: NetName=NetR51_3 Pin=R51-2
+Added Pin To Net: NetName=SD_DAT1 Pin=R51-3
+Added Pin To Net: NetName=SD_DAT0/SDO Pin=R51-4
+Added Pin To Net: NetName=+3.3V_D Pin=R51-5
+Added Pin To Net: NetName=NetR51_3 Pin=R51-8
+Change Net Name : Old Net Name=NetR51_3 New Net Name=NetR51_2

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=SD_SW Pin=R51-1
+Removed Pin From Net: NetName=NetR51_2 Pin=R51-8
+Added Pin To Net: NetName=NetR51_2 Pin=R51-1
+Added Pin To Net: NetName=SD_SW Pin=R51-8
+Change Net Name : Old Net Name=NetR51_2 New Net Name=NetR51_1

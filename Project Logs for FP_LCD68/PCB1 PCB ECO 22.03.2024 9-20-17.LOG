@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=XS8 NewDesignator=XS8_Input
+Change Component Designator: OldDesignator=XS9 NewDesignator=XS9_Out
+Added Room: Name=U_DI_DO
+Added Room: Name=U_Store
