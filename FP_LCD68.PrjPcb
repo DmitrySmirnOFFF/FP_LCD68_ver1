@@ -445,7 +445,7 @@ ConfigurationType=Source
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=NPI04D76D (HP LaserJet M1536dnf MFP)
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -551,7 +551,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=NPI04D76D (HP LaserJet M1536dnf MFP)
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -623,7 +623,7 @@ PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=NPI04D76D (HP LaserJet M1536dnf MFP)
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -645,7 +645,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=NPI04D76D (HP LaserJet M1536dnf MFP)
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Board Stack Report
 OutputName1=Report Board Stack
@@ -717,7 +717,7 @@ OutputDefault12=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=NPI04D76D (HP LaserJet M1536dnf MFP)
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -754,7 +754,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=NPI04D76D (HP LaserJet M1536dnf MFP)
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -934,7 +934,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=NPI04D76D (HP LaserJet M1536dnf MFP)
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_Violations
 OutputName1=BOM Checks Report
@@ -978,7 +978,7 @@ OutputDefault7=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=NPI04D76D (HP LaserJet M1536dnf MFP)
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -1039,7 +1039,7 @@ OutputDefault11=0
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=NPI04D76D (HP LaserJet M1536dnf MFP)
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
@@ -2040,12 +2040,12 @@ Net4=NetName=Store_E2|NetColor=$00A4ADBA
 Net5=NetName=+5V_IN|NetColor=$000083FD
 Net6=NetName=NRF_MOSI|NetColor=$001AC5FF
 Net7=NetName=NRST_MC|NetColor=$008E00C5
-Net8=NetName=CAN2_RX|NetColor=$008E76EC
+Net8=NetName=SD_CMD/SDI|NetColor=$00575860
 Net9=NetName=+5V_RS|NetColor=$000000BF
-Net10=NetName=SD_CMD/SDI|NetColor=$00575860
+Net10=NetName=SD_DAT0/SDO|NetColor=$00B5C9CF
 Net11=NetName=CAN1_RX|NetColor=$008F88FF
 Net12=NetName=LCD_FS1|NetColor=$00EBEBC8
-Net13=NetName=SD_DAT0/SDO|NetColor=$00B5C9CF
+Net13=NetName=CAN2_RX|NetColor=$008E76EC
 Net14=NetName=+3.3V_IN|NetColor=clYellow
 Net15=NetName=LCD_DB2|NetColor=$00FF6E6E
 Net16=NetName=D_IN1|NetColor=$00FF6EFF
