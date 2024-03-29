@@ -551,7 +551,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=NPI04D76D (HP LaserJet M1536dnf MFP)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -1389,7 +1389,7 @@ GlobalIndexSortOrder=3
 GlobalIndexSortLocation=0
 UniqueIDPath0=\LGIQVVCC\HQXJEIHV
 DocumentName0=CAN.SchDoc
-IsEnabled0=1
+IsEnabled0=0
 SelectionScope0=All
 Order0=1
 IndexEnabled0=0
@@ -1397,7 +1397,7 @@ IndexStartValue0=1
 Suffix0=
 UniqueIDPath1=\LGIQVVCC\EIZCSGQG
 DocumentName1=CAN.SchDoc
-IsEnabled1=1
+IsEnabled1=0
 SelectionScope1=All
 Order1=2
 IndexEnabled1=0
@@ -1405,7 +1405,7 @@ IndexStartValue1=1
 Suffix1=
 UniqueIDPath2=\JMECZNWR\YLHJSAOB
 DocumentName2=Chanel_Input.SchDoc
-IsEnabled2=1
+IsEnabled2=0
 SelectionScope2=All
 Order2=3
 IndexEnabled2=0
@@ -1413,7 +1413,7 @@ IndexStartValue2=1
 Suffix2=
 UniqueIDPath3=\JMECZNWR\LQKYAFNM
 DocumentName3=Chanel_Input.SchDoc
-IsEnabled3=1
+IsEnabled3=0
 SelectionScope3=All
 Order3=4
 IndexEnabled3=0
@@ -1421,7 +1421,7 @@ IndexStartValue3=1
 Suffix3=
 UniqueIDPath4=\JMECZNWR\ESPQLGDL
 DocumentName4=Chanel_Input.SchDoc
-IsEnabled4=1
+IsEnabled4=0
 SelectionScope4=All
 Order4=5
 IndexEnabled4=0
@@ -1429,7 +1429,7 @@ IndexStartValue4=1
 Suffix4=
 UniqueIDPath5=\JMECZNWR\ZXOJKQNU
 DocumentName5=Chanel_Out.SchDoc
-IsEnabled5=1
+IsEnabled5=0
 SelectionScope5=All
 Order5=7
 IndexEnabled5=0
@@ -1437,7 +1437,7 @@ IndexStartValue5=1
 Suffix5=
 UniqueIDPath6=\JMECZNWR\ZMWDVDVX
 DocumentName6=Chanel_Out.SchDoc
-IsEnabled6=1
+IsEnabled6=0
 SelectionScope6=All
 Order6=8
 IndexEnabled6=0
@@ -1445,7 +1445,7 @@ IndexStartValue6=1
 Suffix6=
 UniqueIDPath7=\JMECZNWR\XIQGZUTR
 DocumentName7=Chanel_Out.SchDoc
-IsEnabled7=1
+IsEnabled7=0
 SelectionScope7=All
 Order7=9
 IndexEnabled7=0
@@ -1453,7 +1453,7 @@ IndexStartValue7=1
 Suffix7=
 UniqueIDPath8=\JMECZNWR
 DocumentName8=DI_DO.SchDoc
-IsEnabled8=1
+IsEnabled8=0
 SelectionScope8=All
 Order8=10
 IndexEnabled8=0
@@ -1461,7 +1461,7 @@ IndexStartValue8=1
 Suffix8=
 UniqueIDPath9=\GNOTPESG
 DocumentName9=Ethernet.SchDoc
-IsEnabled9=1
+IsEnabled9=0
 SelectionScope9=All
 Order9=11
 IndexEnabled9=0
@@ -1469,7 +1469,7 @@ IndexStartValue9=1
 Suffix9=
 UniqueIDPath10=\PZGZDLXQ
 DocumentName10=LCD_Board.SchDoc
-IsEnabled10=1
+IsEnabled10=0
 SelectionScope10=All
 Order10=12
 IndexEnabled10=0
@@ -1477,7 +1477,7 @@ IndexStartValue10=1
 Suffix10=
 UniqueIDPath11=
 DocumentName11=Main1.SchDoc
-IsEnabled11=1
+IsEnabled11=0
 SelectionScope11=All
 Order11=13
 IndexEnabled11=0
@@ -1493,7 +1493,7 @@ IndexStartValue12=1
 Suffix12=
 UniqueIDPath13=\LGIQVVCC\DSIPNWMV
 DocumentName13=Power_5-5V.SchDoc
-IsEnabled13=1
+IsEnabled13=0
 SelectionScope13=All
 Order13=15
 IndexEnabled13=0
@@ -1501,7 +1501,7 @@ IndexStartValue13=1
 Suffix13=
 UniqueIDPath14=\LGIQVVCC\ZASDBUAA
 DocumentName14=Power_5-5V.SchDoc
-IsEnabled14=1
+IsEnabled14=0
 SelectionScope14=All
 Order14=16
 IndexEnabled14=0
@@ -1509,7 +1509,7 @@ IndexStartValue14=1
 Suffix14=
 UniqueIDPath15=\LGIQVVCC\NMIYCXUB
 DocumentName15=Power_5-5V.SchDoc
-IsEnabled15=1
+IsEnabled15=0
 SelectionScope15=All
 Order15=17
 IndexEnabled15=0
@@ -1517,7 +1517,7 @@ IndexStartValue15=1
 Suffix15=
 UniqueIDPath16=\JMECZNWR\PPLNMWCG
 DocumentName16=Power_5-5V.SchDoc
-IsEnabled16=1
+IsEnabled16=0
 SelectionScope16=All
 Order16=18
 IndexEnabled16=0
@@ -1525,7 +1525,7 @@ IndexStartValue16=1
 Suffix16=
 UniqueIDPath17=\DFCJIMTY
 DocumentName17=Power_24-5-3V.SchDoc
-IsEnabled17=1
+IsEnabled17=0
 SelectionScope17=All
 Order17=19
 IndexEnabled17=0
@@ -1533,7 +1533,7 @@ IndexStartValue17=1
 Suffix17=
 UniqueIDPath18=\LGIQVVCC\QDLCQNAY
 DocumentName18=RS485.SchDoc
-IsEnabled18=1
+IsEnabled18=0
 SelectionScope18=All
 Order18=20
 IndexEnabled18=0
@@ -1541,7 +1541,7 @@ IndexStartValue18=1
 Suffix18=
 UniqueIDPath19=\YWGLTNAH
 DocumentName19=Store.SchDoc
-IsEnabled19=1
+IsEnabled19=0
 SelectionScope19=All
 Order19=21
 IndexEnabled19=0
@@ -2040,12 +2040,12 @@ Net4=NetName=Store_E2|NetColor=$00A4ADBA
 Net5=NetName=+5V_IN|NetColor=$000083FD
 Net6=NetName=NRF_MOSI|NetColor=$001AC5FF
 Net7=NetName=NRST_MC|NetColor=$008E00C5
-Net8=NetName=SD_CMD/SDI|NetColor=$00575860
+Net8=NetName=CAN2_RX|NetColor=$008E76EC
 Net9=NetName=+5V_RS|NetColor=$000000BF
-Net10=NetName=SD_DAT0/SDO|NetColor=$00B5C9CF
+Net10=NetName=SD_CMD/SDI|NetColor=$00575860
 Net11=NetName=CAN1_RX|NetColor=$008F88FF
 Net12=NetName=LCD_FS1|NetColor=$00EBEBC8
-Net13=NetName=CAN2_RX|NetColor=$008E76EC
+Net13=NetName=SD_DAT0/SDO|NetColor=$00B5C9CF
 Net14=NetName=+3.3V_IN|NetColor=clYellow
 Net15=NetName=LCD_DB2|NetColor=$00FF6E6E
 Net16=NetName=D_IN1|NetColor=$00FF6EFF

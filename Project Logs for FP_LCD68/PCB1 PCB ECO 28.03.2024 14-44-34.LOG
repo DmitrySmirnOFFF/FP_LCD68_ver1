@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=NetR26_1 Pin=R26-1
+Removed Pin From Net: NetName=NetDA3_I3_2 Pin=R26-6
+Removed Pin From Net: NetName=NetDA3_I2_2 Pin=R26-7
+Removed Pin From Net: NetName=NetDA3_I1_2 Pin=R26-8
+Removed Pin From Net: NetName=NetR26_1 Pin=XS8_Input-1
+Removed Pin From Net: NetName=NetR26_2 Pin=XS8_Input-2
+Removed Pin From Net: NetName=NetR26_3 Pin=XS8_Input-3
+Added Pin To Net: NetName=NetR26_1 Pin=R26-4
+Added Pin To Net: NetName=NetDA3_I3_2 Pin=R26-5
+Added Pin To Net: NetName=NetDA3_I2_2 Pin=R26-6
+Added Pin To Net: NetName=NetDA3_I1_2 Pin=R26-7
+Added Pin To Net: NetName=NetR26_2 Pin=XS8_Input-1
+Added Pin To Net: NetName=NetR26_3 Pin=XS8_Input-2
+Added Pin To Net: NetName=NetR26_1 Pin=XS8_Input-3
+Change Net Name : Old Net Name=NetR26_1 New Net Name=NetR26_4

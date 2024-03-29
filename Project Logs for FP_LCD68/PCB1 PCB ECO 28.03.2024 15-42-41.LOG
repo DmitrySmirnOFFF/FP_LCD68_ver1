@@ -1,0 +1,60 @@
+Removed Pin From Net: NetName=NRF_TxEN Pin=R24-1
+Removed Pin From Net: NetName=NRF_CE Pin=R24-2
+Removed Pin From Net: NetName=NRF_Pwr Pin=R24-3
+Removed Pin From Net: NetName=NRF_CD Pin=R24-4
+Removed Pin From Net: NetName=NetR24_5 Pin=R24-5
+Removed Pin From Net: NetName=NetR24_6 Pin=R24-6
+Removed Pin From Net: NetName=NetR24_7 Pin=R24-7
+Removed Pin From Net: NetName=NetR24_8 Pin=R24-8
+Removed Pin From Net: NetName=NRF_AM Pin=R25-1
+Removed Pin From Net: NetName=NRF_DR Pin=R25-2
+Removed Pin From Net: NetName=NetR25_7 Pin=R25-7
+Removed Pin From Net: NetName=NetR25_8 Pin=R25-8
+Removed Pin From Net: NetName=NetR24_7 Pin=XS5-3
+Removed Pin From Net: NetName=NetR24_6 Pin=XS5-4
+Removed Pin From Net: NetName=NetR24_5 Pin=XS5-6
+Removed Pin From Net: NetName=NetR25_8 Pin=XS5-7
+Removed Pin From Net: NetName=NetR25_7 Pin=XS5-8
+Added Component: Designator=R24(YC-164)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Идентификатор"; Value = "YC164-JR-0751RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "1206U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "YC164-JR-0751RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "51"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечания"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Component: Designator=R25(YC-164)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Идентификатор"; Value = "YC164-JR-0751RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "1206U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "YC164-JR-0751RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "51"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечания"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NRF_CE Pin=R24-1
+Added Pin To Net: NetName=NRF_TxEN Pin=R24-1
+Added Pin To Net: NetName=NRF_CD Pin=R24-2
+Added Pin To Net: NetName=NRF_Pwr Pin=R24-2
+Added Pin To Net: NetName=NetR24_7 Pin=R24-7
+Added Pin To Net: NetName=NetR25_7 Pin=R24-7
+Added Pin To Net: NetName=NetR24_8 Pin=R24-8
+Added Pin To Net: NetName=NetR25_8 Pin=R24-8
+Added Pin To Net: NetName=NRF_DR Pin=R25-3
+Added Pin To Net: NetName=NRF_AM Pin=R25-4
+Added Pin To Net: NetName=NetR24_5 Pin=R25-5
+Added Pin To Net: NetName=NetR24_6 Pin=R25-6
+Added Pin To Net: NetName=NetR25_8 Pin=XS5-3
+Added Pin To Net: NetName=NetR24_7 Pin=XS5-4
+Added Pin To Net: NetName=NetR25_7 Pin=XS5-6
+Added Pin To Net: NetName=NetR24_5 Pin=XS5-7
+Added Pin To Net: NetName=NetR24_6 Pin=XS5-8
+Change Net Name : Old Net Name=NetR24_5 New Net Name=NetR25_5
+Change Net Name : Old Net Name=NetR24_6 New Net Name=NetR25_6
+Change Net Name : Old Net Name=NetR25_7 New Net Name=NetR24_7
+Change Net Name : Old Net Name=NetR25_8 New Net Name=NetR24_8
+Added Member To Class: ClassName=U_Out_Interface2 Member=Component R24 (R25A) сборка 4шт
+Added Member To Class: ClassName=U_Out_Interface2 Member=Component R25 сборка 4шт

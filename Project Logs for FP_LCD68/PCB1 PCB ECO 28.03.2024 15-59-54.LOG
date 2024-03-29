@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=NRF_TxEN Pin=R25-1
+Removed Pin From Net: NetName=NRF_Pwr Pin=R25-2
+Removed Pin From Net: NetName=NRF_MISO Pin=R25-3
+Removed Pin From Net: NetName=NRF_MOSI Pin=R25-4
+Removed Pin From Net: NetName=NetR25_8 Pin=XS5-2
+Removed Pin From Net: NetName=NetR25_7 Pin=XS5-4
+Removed Pin From Net: NetName=NetR25_6 Pin=XS5-9
+Removed Pin From Net: NetName=NetR25_5 Pin=XS5-10
+Added Pin To Net: NetName=NRF_MOSI Pin=R25-1
+Added Pin To Net: NetName=NRF_MISO Pin=R25-2
+Added Pin To Net: NetName=NRF_Pwr Pin=R25-3
+Added Pin To Net: NetName=NRF_TxEN Pin=R25-4
+Added Pin To Net: NetName=NetR25_5 Pin=XS5-2
+Added Pin To Net: NetName=NetR25_6 Pin=XS5-4
+Added Pin To Net: NetName=NetR25_7 Pin=XS5-9
+Added Pin To Net: NetName=NetR25_8 Pin=XS5-10
