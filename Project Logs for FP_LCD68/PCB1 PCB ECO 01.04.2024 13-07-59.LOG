@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=D_IN3 Pin=R54-1
+Removed Pin From Net: NetName=D_IN1 Pin=R54-3
+Removed Pin From Net: NetName=NetDA3_I1_4 Pin=R54-6
+Removed Pin From Net: NetName=NetDA3_I3_4 Pin=R54-8
+Removed Pin From Net: NetName=D_O1 Pin=R56-1
+Removed Pin From Net: NetName=D_O3 Pin=R56-3
+Removed Pin From Net: NetName=NetR53_O3_1 Pin=R56-6
+Removed Pin From Net: NetName=NetR53_O1_1 Pin=R56-8
+Added Pin To Net: NetName=D_IN1 Pin=R54-1
+Added Pin To Net: NetName=D_IN3 Pin=R54-3
+Added Pin To Net: NetName=NetDA3_I3_4 Pin=R54-6
+Added Pin To Net: NetName=NetDA3_I1_4 Pin=R54-8
+Added Pin To Net: NetName=D_O3 Pin=R56-1
+Added Pin To Net: NetName=D_O1 Pin=R56-3
+Added Pin To Net: NetName=NetR53_O1_1 Pin=R56-6
+Added Pin To Net: NetName=NetR53_O3_1 Pin=R56-8

@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=FP_SW1 Pin=DD1-1
+Removed Pin From Net: NetName=FP_SW2 Pin=DD1-2
+Removed Pin From Net: NetName=FP_SW4 Pin=DD1-4
+Removed Pin From Net: NetName=FP_SW5 Pin=DD1-5
+Added Pin To Net: NetName=FP_SW5 Pin=DD1-1
+Added Pin To Net: NetName=FP_SW4 Pin=DD1-2
+Added Pin To Net: NetName=FP_SW2 Pin=DD1-4
+Added Pin To Net: NetName=FP_SW1 Pin=DD1-5

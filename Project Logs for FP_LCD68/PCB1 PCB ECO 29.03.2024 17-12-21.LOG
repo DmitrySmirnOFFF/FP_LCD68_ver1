@@ -1,0 +1,113 @@
+Removed Pin From Net: NetName=FP_SW1 Pin=VD17-1
+Removed Pin From Net: NetName=D_GND Pin=VD17-2
+Removed Pin From Net: NetName=FP_SW5 Pin=VD17-3
+Removed Pin From Net: NetName=FP_SW4 Pin=VD17-4
+Removed Pin From Net: NetName=FP_SW3 Pin=VD17-5
+Removed Pin From Net: NetName=FP_SW2 Pin=VD17-6
+Removed Pin From Net: NetName=NetL3_1 Pin=XP2-1
+Removed Pin From Net: NetName=FP_SW1 Pin=XP2-2
+Removed Pin From Net: NetName=FP_SW2 Pin=XP2-3
+Removed Pin From Net: NetName=FP_SW3 Pin=XP2-4
+Removed Pin From Net: NetName=FP_SW4 Pin=XP2-5
+Removed Pin From Net: NetName=FP_SW5 Pin=XP2-6
+Removed Member From Class: ClassName=U_LCD_Board Member=VD17
+Removed Member From Class: ClassName=U_LCD_Board Member=XP2
+Added Component: Designator=C65(CAP_0805_(2x1.25x1.3))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Аналог"; Value = "GRM21BR71H104K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Идентификатор"; Value = "CC0805KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "CC0805KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "0.1 uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечания"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Added Component: Designator=R74(RES_0805_(2x1.2x0.45)_0.125Вт)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Идентификатор"; Value = "RC0805JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "RC0805JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "10 k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечания"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Component: Designator=VD36(SOT-23)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Идентификатор"; Value = "PESD3V3L2BT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "SOT-23-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "PESD3V3L2BT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = "3.3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечания"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип"; Value = "Защитные диоды"; VariantName = "[No Variations]"
+Added Component: Designator=VD37(SOT-23)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Идентификатор"; Value = "PESD3V3L2BT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "SOT-23-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "PESD3V3L2BT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = "3.3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечания"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип"; Value = "Защитные диоды"; VariantName = "[No Variations]"
+Added Component: Designator=VD38(SOT-23)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Идентификатор"; Value = "PESD3V3L2BT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "SOT-23-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "PESD3V3L2BT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = "3.3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечания"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип"; Value = "Защитные диоды"; VariantName = "[No Variations]"
+Added Component: Designator=XP4(XP_7_H_Pin)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Аналог"; Value = "PH1MR-140GBOOT6.0-U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Идентификатор"; Value = "PLS-10R "; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "PLS-10R "; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечания"; Value = "(DS-1022-1x10)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=D_GND Pin=C65-2
+Added Pin To Net: NetName=+3.3V_D Pin=R74-1
+Added Pin To Net: NetName=FP_SW1 Pin=VD36-1
+Added Pin To Net: NetName=FP_SW2 Pin=VD36-2
+Added Pin To Net: NetName=D_GND Pin=VD36-3
+Added Pin To Net: NetName=FP_SW3 Pin=VD37-1
+Added Pin To Net: NetName=FP_SW4 Pin=VD37-2
+Added Pin To Net: NetName=D_GND Pin=VD37-3
+Added Pin To Net: NetName=FP_SW5 Pin=VD38-1
+Added Pin To Net: NetName=D_GND Pin=VD38-3
+Added Pin To Net: NetName=NetL3_1 Pin=XP4-1
+Added Pin To Net: NetName=NetL3_1 Pin=XP4-1
+Added Pin To Net: NetName=FP_SW1 Pin=XP4-2
+Added Pin To Net: NetName=FP_SW1 Pin=XP4-2
+Added Pin To Net: NetName=FP_SW2 Pin=XP4-3
+Added Pin To Net: NetName=FP_SW2 Pin=XP4-3
+Added Pin To Net: NetName=FP_SW3 Pin=XP4-4
+Added Pin To Net: NetName=FP_SW3 Pin=XP4-4
+Added Pin To Net: NetName=FP_SW4 Pin=XP4-5
+Added Pin To Net: NetName=FP_SW4 Pin=XP4-5
+Added Pin To Net: NetName=FP_SW5 Pin=XP4-6
+Added Pin To Net: NetName=FP_SW5 Pin=XP4-6
+Added Pin To Net: NetName=FP_SW6 Pin=C65-1
+Added Pin To Net: NetName=FP_SW6 Pin=DD1-89
+Added Pin To Net: NetName=FP_SW6 Pin=R74-2
+Added Pin To Net: NetName=FP_SW6 Pin=VD38-2
+Added Pin To Net: NetName=FP_SW6 Pin=XP4-7
+Added Pin To Net: NetName=FP_SW6 Pin=XP4-7
+Added Net: Name=FP_SW6
+Change Class Name : Old Net Name=FP_SW[1..5] New Net Name=FP_SW[1..6]
+Added Member To Class: ClassName=U_LCD_Board Member=Component C65 0805
+Added Member To Class: ClassName=U_LCD_Board Member=Component R74 0805
+Added Member To Class: ClassName=U_LCD_Board Member=Component VD36 VD_BAT54S
+Added Member To Class: ClassName=U_LCD_Board Member=Component VD37 VD_BAT54S
+Added Member To Class: ClassName=U_LCD_Board Member=Component VD38 VD_BAT54S
+Added Member To Class: ClassName=U_LCD_Board Member=Component XP4 XP_7_H_pin
+Added Member To Class: ClassName=FP_SW[1..6] Member=Element[6]: FP_SW

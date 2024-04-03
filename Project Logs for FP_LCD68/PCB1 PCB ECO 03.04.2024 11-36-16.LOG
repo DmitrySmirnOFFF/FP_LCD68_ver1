@@ -1,0 +1,7 @@
+Removed Member From Class: ClassName=Main1 Member=C66
+Removed Member From Class: ClassName=Main1 Member=C67
+Change Component Designator: OldDesignator=C66 NewDesignator=C10
+Change Component Designator: OldDesignator=C67 NewDesignator=C11
+Change Net Name : Old Net Name=NetC66_1 New Net Name=NetC10_1
+Added Member To Class: ClassName=Main1 Member=Component C10 (C66) 0805
+Added Member To Class: ClassName=Main1 Member=Component C11 (C67) 0805

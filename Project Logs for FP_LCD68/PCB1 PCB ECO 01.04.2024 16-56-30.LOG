@@ -1,0 +1,19 @@
+Added Component: Designator=R75(YC-164)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Идентификатор"; Value = "YC164-JR-0751RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "1206U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "YC164-JR-0751RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "51"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечания"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=LCD_DB0 Pin=R75-1
+Added Pin To Net: NetName=LCD_/WR(FSMC_NWE) Pin=R75-2
+Added Pin To Net: NetName=LCD_/RD(FSMC_NOE) Pin=R75-3
+Added Pin To Net: NetName=LCD_C/D(RS-FSMC_A16) Pin=R75-4
+Added Pin To Net: NetName=NetC103_2 Pin=R75-5
+Added Pin To Net: NetName=NetC104_2 Pin=R75-6
+Added Pin To Net: NetName=NetC105_2 Pin=R75-7
+Added Pin To Net: NetName=NetC106_2 Pin=R75-8
+Added Member To Class: ClassName=U_LCD_Board Member=Component R75 сборка 4шт

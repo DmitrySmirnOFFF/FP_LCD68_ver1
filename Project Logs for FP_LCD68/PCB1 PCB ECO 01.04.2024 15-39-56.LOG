@@ -1,0 +1,347 @@
+Removed Pin From Net: NetName=D_GND Pin=C66-5
+Removed Pin From Net: NetName=D_GND Pin=C66-6
+Removed Pin From Net: NetName=D_GND Pin=C66-7
+Removed Pin From Net: NetName=D_GND Pin=C66-8
+Removed Pin From Net: NetName=D_GND Pin=C67-5
+Removed Pin From Net: NetName=D_GND Pin=C67-6
+Removed Pin From Net: NetName=D_GND Pin=C67-7
+Removed Pin From Net: NetName=D_GND Pin=C67-8
+Removed Pin From Net: NetName=D_GND Pin=C68-5
+Removed Pin From Net: NetName=D_GND Pin=C68-6
+Removed Pin From Net: NetName=D_GND Pin=C68-7
+Removed Pin From Net: NetName=D_GND Pin=C68-8
+Removed Pin From Net: NetName=D_GND Pin=C69-5
+Removed Pin From Net: NetName=D_GND Pin=C69-6
+Removed Pin From Net: NetName=D_GND Pin=C69-7
+Removed Pin From Net: NetName=D_GND Pin=C69-8
+Removed Pin From Net: NetName=D_GND Pin=C70-6
+Removed Pin From Net: NetName=D_GND Pin=C70-7
+Removed Pin From Net: NetName=D_GND Pin=C70-8
+Removed Member From Class: ClassName=U_LCD_Board Member=C66
+Removed Member From Class: ClassName=U_LCD_Board Member=C67
+Removed Member From Class: ClassName=U_LCD_Board Member=C68
+Removed Member From Class: ClassName=U_LCD_Board Member=C69
+Removed Member From Class: ClassName=U_LCD_Board Member=C70
+Added Component: Designator=C100(CAP_0805_(2x1.25x1.3))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Аналог"; Value = "GRM21BR71H101K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Идентификатор"; Value = "TCC0805COG101J101BT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "TCC0805COG101J101BT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "100 pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечания"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Added Component: Designator=C101(CAP_0805_(2x1.25x1.3))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Аналог"; Value = "GRM21BR71H101K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Идентификатор"; Value = "TCC0805COG101J101BT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "TCC0805COG101J101BT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "100 pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечания"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Added Component: Designator=C102(CAP_0805_(2x1.25x1.3))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Аналог"; Value = "GRM21BR71H101K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Идентификатор"; Value = "TCC0805COG101J101BT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "TCC0805COG101J101BT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "100 pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечания"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Added Component: Designator=C103(CAP_0805_(2x1.25x1.3))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Аналог"; Value = "GRM21BR71H101K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Идентификатор"; Value = "TCC0805COG101J101BT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "TCC0805COG101J101BT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "100 pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечания"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Added Component: Designator=C104(CAP_0805_(2x1.25x1.3))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Аналог"; Value = "GRM21BR71H101K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Идентификатор"; Value = "TCC0805COG101J101BT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "TCC0805COG101J101BT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "100 pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечания"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Added Component: Designator=C105(CAP_0805_(2x1.25x1.3))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Аналог"; Value = "GRM21BR71H101K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Идентификатор"; Value = "TCC0805COG101J101BT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "TCC0805COG101J101BT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "100 pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечания"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Added Component: Designator=C106(CAP_0805_(2x1.25x1.3))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Аналог"; Value = "GRM21BR71H101K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Идентификатор"; Value = "TCC0805COG101J101BT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "TCC0805COG101J101BT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "100 pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечания"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Added Component: Designator=C107(CAP_0805_(2x1.25x1.3))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Аналог"; Value = "GRM21BR71H101K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Идентификатор"; Value = "TCC0805COG101J101BT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "TCC0805COG101J101BT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "100 pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечания"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Added Component: Designator=C108(CAP_0805_(2x1.25x1.3))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Аналог"; Value = "GRM21BR71H101K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Идентификатор"; Value = "TCC0805COG101J101BT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "TCC0805COG101J101BT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "100 pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечания"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Added Component: Designator=C109(CAP_0805_(2x1.25x1.3))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Аналог"; Value = "GRM21BR71H101K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Идентификатор"; Value = "TCC0805COG101J101BT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "TCC0805COG101J101BT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "100 pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечания"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Added Component: Designator=C110(CAP_0805_(2x1.25x1.3))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Аналог"; Value = "GRM21BR71H101K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Идентификатор"; Value = "TCC0805COG101J101BT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "TCC0805COG101J101BT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "100 pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечания"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Added Component: Designator=C111(CAP_0805_(2x1.25x1.3))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Аналог"; Value = "GRM21BR71H101K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Идентификатор"; Value = "TCC0805COG101J101BT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "TCC0805COG101J101BT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "100 pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечания"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Added Component: Designator=C112(CAP_0805_(2x1.25x1.3))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Аналог"; Value = "GRM21BR71H101K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Идентификатор"; Value = "TCC0805COG101J101BT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "TCC0805COG101J101BT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "100 pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечания"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Added Component: Designator=C113(CAP_0805_(2x1.25x1.3))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Аналог"; Value = "GRM21BR71H101K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Идентификатор"; Value = "TCC0805COG101J101BT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "TCC0805COG101J101BT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "100 pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечания"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Added Component: Designator=C114(CAP_0805_(2x1.25x1.3))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Аналог"; Value = "GRM21BR71H101K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Идентификатор"; Value = "TCC0805COG101J101BT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "TCC0805COG101J101BT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "100 pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечания"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Added Component: Designator=C115(CAP_0805_(2x1.25x1.3))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Аналог"; Value = "GRM21BR71H101K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Идентификатор"; Value = "TCC0805COG101J101BT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "TCC0805COG101J101BT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "100 pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечания"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Added Component: Designator=C116(CAP_0805_(2x1.25x1.3))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Аналог"; Value = "GRM21BR71H101K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Идентификатор"; Value = "TCC0805COG101J101BT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "TCC0805COG101J101BT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "100 pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечания"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Added Component: Designator=C117(CAP_0805_(2x1.25x1.3))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Аналог"; Value = "GRM21BR71H101K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Идентификатор"; Value = "TCC0805COG101J101BT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "TCC0805COG101J101BT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "100 pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечания"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Added Component: Designator=C118(CAP_0805_(2x1.25x1.3))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Аналог"; Value = "GRM21BR71H101K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Идентификатор"; Value = "TCC0805COG101J101BT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "TCC0805COG101J101BT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = "100 pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечания"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=D_GND Pin=C100-1
+Added Pin To Net: NetName=D_GND Pin=C101-1
+Added Pin To Net: NetName=D_GND Pin=C102-1
+Added Pin To Net: NetName=D_GND Pin=C103-1
+Added Pin To Net: NetName=D_GND Pin=C104-1
+Added Pin To Net: NetName=D_GND Pin=C105-1
+Added Pin To Net: NetName=D_GND Pin=C106-1
+Added Pin To Net: NetName=D_GND Pin=C107-1
+Added Pin To Net: NetName=D_GND Pin=C108-1
+Added Pin To Net: NetName=D_GND Pin=C109-1
+Added Pin To Net: NetName=D_GND Pin=C110-1
+Added Pin To Net: NetName=D_GND Pin=C111-1
+Added Pin To Net: NetName=D_GND Pin=C112-1
+Added Pin To Net: NetName=D_GND Pin=C113-1
+Added Pin To Net: NetName=D_GND Pin=C114-1
+Added Pin To Net: NetName=D_GND Pin=C115-1
+Added Pin To Net: NetName=D_GND Pin=C116-1
+Added Pin To Net: NetName=D_GND Pin=C117-1
+Added Pin To Net: NetName=D_GND Pin=C118-1
+Added Pin To Net: NetName=NetC100_2 Pin=C100-2
+Added Pin To Net: NetName=NetC100_2 Pin=L1-1
+Added Pin To Net: NetName=NetC100_2 Pin=XS1-1
+Added Net: Name=NetC100_2
+Added Pin To Net: NetName=NetC101_2 Pin=C101-2
+Added Pin To Net: NetName=NetC101_2 Pin=L2-1
+Added Pin To Net: NetName=NetC101_2 Pin=XS1-2
+Added Net: Name=NetC101_2
+Added Pin To Net: NetName=NetC102_2 Pin=C102-2
+Added Pin To Net: NetName=NetC102_2 Pin=R13-2
+Added Pin To Net: NetName=NetC102_2 Pin=XS1-3
+Added Net: Name=NetC102_2
+Added Pin To Net: NetName=NetC103_2 Pin=C103-2
+Added Pin To Net: NetName=NetC103_2 Pin=R75-8
+Added Pin To Net: NetName=NetC103_2 Pin=XS1-4
+Added Net: Name=NetC103_2
+Added Pin To Net: NetName=NetC104_2 Pin=C104-2
+Added Pin To Net: NetName=NetC104_2 Pin=R75-7
+Added Pin To Net: NetName=NetC104_2 Pin=XS1-5
+Added Net: Name=NetC104_2
+Added Pin To Net: NetName=NetC105_2 Pin=C105-2
+Added Pin To Net: NetName=NetC105_2 Pin=R75-6
+Added Pin To Net: NetName=NetC105_2 Pin=XS1-6
+Added Net: Name=NetC105_2
+Added Pin To Net: NetName=NetC106_2 Pin=C106-2
+Added Pin To Net: NetName=NetC106_2 Pin=R75-5
+Added Pin To Net: NetName=NetC106_2 Pin=XS1-7
+Added Net: Name=NetC106_2
+Added Pin To Net: NetName=NetC107_2 Pin=C107-2
+Added Pin To Net: NetName=NetC107_2 Pin=R76-8
+Added Pin To Net: NetName=NetC107_2 Pin=XS1-8
+Added Net: Name=NetC107_2
+Added Pin To Net: NetName=NetC108_2 Pin=C108-2
+Added Pin To Net: NetName=NetC108_2 Pin=R76-7
+Added Pin To Net: NetName=NetC108_2 Pin=XS1-9
+Added Net: Name=NetC108_2
+Added Pin To Net: NetName=NetC109_2 Pin=C109-2
+Added Pin To Net: NetName=NetC109_2 Pin=R76-6
+Added Pin To Net: NetName=NetC109_2 Pin=XS1-10
+Added Net: Name=NetC109_2
+Added Pin To Net: NetName=NetC110_2 Pin=C110-2
+Added Pin To Net: NetName=NetC110_2 Pin=R76-5
+Added Pin To Net: NetName=NetC110_2 Pin=XS1-11
+Added Net: Name=NetC110_2
+Added Pin To Net: NetName=NetC111_2 Pin=C111-2
+Added Pin To Net: NetName=NetC111_2 Pin=R77-8
+Added Pin To Net: NetName=NetC111_2 Pin=XS1-12
+Added Net: Name=NetC111_2
+Added Pin To Net: NetName=NetC112_2 Pin=C112-2
+Added Pin To Net: NetName=NetC112_2 Pin=R77-7
+Added Pin To Net: NetName=NetC112_2 Pin=XS1-13
+Added Net: Name=NetC112_2
+Added Pin To Net: NetName=NetC113_2 Pin=C113-2
+Added Pin To Net: NetName=NetC113_2 Pin=R77-6
+Added Pin To Net: NetName=NetC113_2 Pin=XS1-14
+Added Net: Name=NetC113_2
+Added Pin To Net: NetName=NetC114_2 Pin=C114-2
+Added Pin To Net: NetName=NetC114_2 Pin=R77-5
+Added Pin To Net: NetName=NetC114_2 Pin=XS1-15
+Added Net: Name=NetC114_2
+Added Pin To Net: NetName=NetC115_2 Pin=C115-2
+Added Pin To Net: NetName=NetC115_2 Pin=R78-8
+Added Pin To Net: NetName=NetC115_2 Pin=XS1-16
+Added Net: Name=NetC115_2
+Added Pin To Net: NetName=NetC116_2 Pin=C116-2
+Added Pin To Net: NetName=NetC116_2 Pin=R13-1
+Added Pin To Net: NetName=NetC116_2 Pin=XS1-17
+Added Net: Name=NetC116_2
+Added Pin To Net: NetName=NetC117_2 Pin=C117-2
+Added Pin To Net: NetName=NetC117_2 Pin=R78-7
+Added Pin To Net: NetName=NetC117_2 Pin=XS1-18
+Added Net: Name=NetC117_2
+Added Pin To Net: NetName=NetC118_2 Pin=C118-2
+Added Pin To Net: NetName=NetC118_2 Pin=R78-6
+Added Pin To Net: NetName=NetC118_2 Pin=XS1-19
+Added Net: Name=NetC118_2
+Added Member To Class: ClassName=U_LCD_Board Member=Component C100 0805
+Added Member To Class: ClassName=U_LCD_Board Member=Component C101 0805
+Added Member To Class: ClassName=U_LCD_Board Member=Component C102 0805
+Added Member To Class: ClassName=U_LCD_Board Member=Component C103 0805
+Added Member To Class: ClassName=U_LCD_Board Member=Component C104 0805
+Added Member To Class: ClassName=U_LCD_Board Member=Component C105 0805
+Added Member To Class: ClassName=U_LCD_Board Member=Component C106 0805
+Added Member To Class: ClassName=U_LCD_Board Member=Component C107 0805
+Added Member To Class: ClassName=U_LCD_Board Member=Component C108 0805
+Added Member To Class: ClassName=U_LCD_Board Member=Component C109 0805
+Added Member To Class: ClassName=U_LCD_Board Member=Component C110 0805
+Added Member To Class: ClassName=U_LCD_Board Member=Component C111 0805
+Added Member To Class: ClassName=U_LCD_Board Member=Component C112 0805
+Added Member To Class: ClassName=U_LCD_Board Member=Component C113 0805
+Added Member To Class: ClassName=U_LCD_Board Member=Component C114 0805
+Added Member To Class: ClassName=U_LCD_Board Member=Component C115 0805
+Added Member To Class: ClassName=U_LCD_Board Member=Component C116 0805
+Added Member To Class: ClassName=U_LCD_Board Member=Component C117 0805
+Added Member To Class: ClassName=U_LCD_Board Member=Component C118 0805
