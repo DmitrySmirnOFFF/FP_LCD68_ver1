@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=+5V_D Pin=C101-1
+Removed Pin From Net: NetName=+5V_D Pin=L2-2
+Added Component: Designator=L2_X(L_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Идентификатор"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "PBY201209T-601Y-N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинал"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Поставщик"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечания"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип"; Value = "Индуктивность"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3V_D Pin=L2-2
+Added Pin To Net: NetName=+5V_D Pin=L2_X-2
+Added Pin To Net: NetName=NetC101_1 Pin=C101-1
+Added Pin To Net: NetName=NetC101_1 Pin=L2-1
+Added Pin To Net: NetName=NetC101_1 Pin=L2_X-1
+Added Pin To Net: NetName=NetC101_1 Pin=XS1-2
+Added Net: Name=NetC101_1
+Added Member To Class: ClassName=U_LCD_Board Member=Component L2_X PBY201209T-601Y-N
